@@ -1,8 +1,8 @@
-Redemption Religion Sacred Texts Repository
+# Redemption Religion Sacred Texts Repository
 
 Welcome to the official repository for the Redemption Religion. This project is dedicated to managing the version-controlled sacred texts, rituals, and teachings of our faith, ensuring transparency, collaboration, and continuous refinement of the doctrine.
 
-Table of Contents
+### Table of Contents
 
     About the Redemption Religion
     Folder Structure
@@ -11,13 +11,13 @@ Table of Contents
     Versioning Policy
     How to Get Involved
 
-About the Redemption Religion
+### About the Redemption Religion
 
 The Redemption Religion is a modern spiritual movement based on principles of redemption, truth, and the restoration of balance in both spiritual and material realms. The sacred texts serve as a guide for followers and seekers alike, promoting inner peace, societal harmony, and divine redemption through spiritual practices, ethical living, and the pursuit of higher truths.
 
 The aim of this repository is to preserve, refine, and make available the sacred writings, rituals, and commentaries of the Redemption Religion. We invite contributions from followers, theologians, and scholars to ensure the texts are continuously developed with integrity and ethical consideration.
 
-Folder Structure
+### Folder Structure
 
 Below is a brief explanation of the repository's folder structure:
 
@@ -29,7 +29,7 @@ Below is a brief explanation of the repository's folder structure:
 
 For a more detailed explanation of each folder, please refer to the README.md files located within the specific subfolders.
 
-Contributing to the Sacred Texts
+### Contributing to the Sacred Texts
 
 We encourage contributions from members of the Redemption Religion and spiritual scholars. If you'd like to contribute:
 
@@ -40,11 +40,11 @@ We encourage contributions from members of the Redemption Religion and spiritual
 
 Please refer to the Contribution Guidelines for detailed information on how to submit and collaborate on changes.
 
-Code of Conduct
+### Code of Conduct
 
 We uphold the highest ethical standards within this community. All contributors are expected to respect the sanctity of the texts, act in good faith, and engage in discussions with kindness and humility. Please review the full Code of Conduct for more information on acceptable behavior.
 
-Versioning Policy
+### Versioning Policy
 
 To maintain the integrity of the sacred texts, we follow a strict versioning policy:
 
@@ -53,7 +53,7 @@ To maintain the integrity of the sacred texts, we follow a strict versioning pol
 
 For more details, check the Versioning Policy.
 
-How to Get Involved
+### How to Get Involved
 
 Whether you're a follower of the Redemption Religion, a scholar, or someone interested in spiritual philosophy, there are many ways to get involved:
 
