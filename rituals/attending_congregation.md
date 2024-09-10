@@ -1,4 +1,4 @@
-# Attending Congregation in the Redemption Religion: The Path to Divine Closeness
+# Attending Congregation in Redemption: The Path to Divine Closeness
 
 ### 1. Introduction: Why Attend Congregation?
 
