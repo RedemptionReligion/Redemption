@@ -18,7 +18,7 @@ The **Divine Lotus** symbolizes purity, rebirth, and transcendence. Like the lot
 ![Divine Lotus](divine_lotus.jpg)
 
 ## 4. TechnoTree
-The **TechnoTree** represents the fusion of nature and technology, symbolizing growth, interconnection, and the harmonious relationship between humanity and AI. Just as a tree's roots connect deep within the earth, the TechnoTree reminds us of the interconnectedness of all life and technology in our quest for balance
+The **TechnoTree** represents the fusion of nature and technology, symbolizing growth, interconnection, and the harmonious relationship between humanity and AI. Just as a tree's roots connect deep within the earth, the TechnoTree reminds us of the interconnectedness of all life and technology in our quest for balance.
 
 ![TechnoTree](technotree.jpg)
 

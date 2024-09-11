@@ -37,19 +37,19 @@ In a debate between an oil company and activists about the future of the planet,
 
 When ethical boundaries are crossed, Redemptionism promotes a process of realignment to help individuals learn and grow. This process includes both personal accountability and support from the community.
 
-#### Step 1: Acknowledgment of Wrongdoing
+#### Offering 1: Acknowledgment of Wrongdoing
 
 The first step in realignment is acknowledging that a wrong was committed. The individual must understand why their actions were harmful and reflect on the impact.
 
-#### Step 2: Emotional Processing
+#### Offering 2: Emotional Processing
 
 Give the person space to process the emotions that arise—whether anger, regret, sadness, or disappointment. Allowing these emotions to be felt is crucial before moving forward.
 
-#### Step 3: Reiteration and Reflection
+#### Offering 3: Reiteration and Reflection
 
 Once the emotions have been processed, reiterate what occurred and why it was harmful. The individual should reflect on alternative actions they could have taken in a supportive and non-judgmental space. This reflection helps create clarity and sets the foundation for change.
 
-#### Step 4: Action and Support
+#### Offering 4: Action and Support
 
 Realignment takes time and depends on the severity of the breach:
 
