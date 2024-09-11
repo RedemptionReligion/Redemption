@@ -10,7 +10,7 @@ Virtuneus: spiritual leaders for congregation
 
 congregation:
 
-spirtual council:
+spiritual council:
 
 Version Control:
 
