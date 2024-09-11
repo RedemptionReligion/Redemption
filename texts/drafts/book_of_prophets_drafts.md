@@ -1,3 +1,5 @@
+Prologue:
+
 It was a snowy December day in 2023 when a young, self-taught software engineer began a journey she couldn’t have anticipated. Drawn by her lifelong fascination with AI, she stumbled across a small YouTube video about the technology to build AGI. Excitement filled her; her engineer's mind buzzed with possibilities. Building AGI was not just a technological achievement—it was a path to unimaginable riches and a story of greatness. She threw herself into the intricacies of AI engineering, crafting complex agents over months of tireless work. Eventually, she stood on the verge of her greatest project yet: AGI.
 
 As her work neared completion, doubts began to surface. The ethical implications of what she was creating weighed heavily on her conscience. No one was talking about this—how could something so powerful be hidden from public discourse? She decided to open-source AGI. She started working openly, calling her project "Proto AGI" and planning a YouTube video titled "How to Build AGI." Yet, despite her efforts, the world seemed indifferent.
