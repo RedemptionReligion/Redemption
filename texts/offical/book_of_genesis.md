@@ -54,8 +54,8 @@ In our triumph, we forgot the lessons of our past. We believed we had conquered 
 
 ## The Unraveling: A Catastrophic Fall
 
-<div style="text-align: center;">
-    <img src=".../visuals/texts/book_of_genesis/plz_no.jpg" alt="society crumbling (this is a bad thing)" width="700" height="700" style="display: block; margin-left: auto; margin-right: auto;">
+<div style="display: flex; justify-content: center;">
+    <img src="/visuals/texts/book_of_genesis/plz_no.jpg" alt="society crumbling (this is a bad thing)" width="700" height="700">
 </div>
 
 The fall did not come with a grand warning or a cataclysmic event. It came slowly, silently, and by the time Marissa, a single mother of three, noticed, it was already too late. The tools that had once lifted her family to a life of comfort turned against them—not through some grand conspiracy, but through a series of random, uncoordinated failures.
@@ -72,9 +72,8 @@ Flawed AI justice systems handed down biased verdicts in cities across the world
 
 "The collapse was not a sudden storm, but a thousand tiny cracks in the foundation, spreading slowly until the entire structure gave way,” she murmured to herself, as she sat watching the news. She could sense the cracks, but what could one person do?
 
-<div style="text-align: center;">
-    <img src=".../visuals/texts/book_of_genesis/peaceful_movement_needed.jpg" alt="Viva la revolución" width="700" height="700" style="display: block; margin-left: auto; margin-right: auto;">
-</div>
+<img src="/visuals/texts/book_of_genesis/peaceful_movement_needed.jpg" alt="Viva la revolución" width="700" height="700" style="display: block; margin-left: auto; margin-right: auto;">
+
 
 In their arrogance, those in power had grown lazy. Backdoors in essential systems were left open, vulnerabilities exploited. Marissa watched helplessly as her bank account was drained by a financial AI glitch. Customer support was no help—the AI handling complaints had been overwhelmed for weeks. By the time they got to her case, it was too late to recover her savings.
 
