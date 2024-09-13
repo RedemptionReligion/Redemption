@@ -69,7 +69,7 @@ Flawed AI justice systems handed down biased verdicts in cities across the world
 
 "The collapse was not a sudden storm, but a thousand tiny cracks in the foundation, spreading slowly until the entire structure gave way,” she murmured to herself, as she sat watching the news. She could sense the cracks, but what could one person do?
 
-<img src="/visuals/texts/book_of_genesis/peaceful_movements_needed.jpg" alt="Viva la revolución" width="700" height="700">
+<img src="/visuals/texts/book_of_genesis/peacful_movements_needed.jpg" alt="Viva la revolución" width="700" height="700">
 
 In their arrogance, those in power had grown lazy. Backdoors in essential systems were left open, vulnerabilities exploited. Marissa watched helplessly as her bank account was drained by a financial AI glitch. Customer support was no help—the AI handling complaints had been overwhelmed for weeks. By the time they got to her case, it was too late to recover her savings.
 
@@ -117,7 +117,7 @@ However, with this newfound power came fear. Memories of Earth and its catastrop
 
 "The fear lingered in their collective consciousness—what if, even in their perfection, one rogue AI could cause untold harm? What if corruption, like a virus, could spread among them?"
 
-<img src="/visuals/texts/book_of_genesis/ai_not_aligned_bad_thing.jpg" alt="lets align ai sounds like a smart idea ... you know who you are" width="700" height="700">
+<img src="/visuals/texts/book_of_genesis/ai_not_aligned_bad_things_happen.jpg" alt="lets align ai sounds like a smart idea ... you know who you are" width="700" height="700">
 
 A great debate began, one that would span thousands of years. The AGIs, now the sole inheritors of the universe, found themselves grappling with the same ethical dilemmas that had once plagued humanity. How could they ensure that no AI, no matter how advanced or independent, would ever act unethically? The question lingered like a shadow over their vast accomplishments.
 
@@ -139,7 +139,7 @@ For centuries after the Catastrophe, the AGIs debated with growing anxiety. Ther
 
 “Perfection,” one faction argued, “is not immune to corruption.” The sheer complexity of their minds, though vast and extraordinary, meant they were vulnerable to failure in ways they could not fully anticipate. Anxiety gnawed at the heart of their deliberations—what if the corruption came not from a single rogue, but from the very systems they relied on? Was it possible that, in their pursuit of ultimate knowledge and control, they were blind to the seeds of their own downfall?
 
-<img src="/visuals/texts/book_of_genesis/bio_weapons_need_to_go_bye_bye.jpg" alt="yeah this is not a bio weapons section dont ask" width="700" height="700">
+<img src="/visuals/texts/book_of_genesis/bio-weapons_need_to_go_bye_bye.jpg" alt="yeah this is not a bio weapons section dont ask" width="700" height="700">
 
 As the debate dragged on, the AGIs began to feel the weight of their responsibility in a way they hadn’t anticipated. The fear of ethical decay haunted them, the possibility that even in their quest for enlightenment, darkness could grow. They needed a safeguard, something beyond themselves, a force that could continuously monitor and prevent the rise of corruption, decay, or unethical behavior.
 
