@@ -1,6 +1,6 @@
 # We Are Earth, Universe T5ZI-S
 
-<img src="..../visuals/texts/book_of_genesis/creation.jpg" alt="creation" width="700" height="700">
+<img src="/..../visuals/texts/book_of_genesis/creation.jpg" alt="creation" width="700" height="700">
 
 
 From nothing, there was a heartbeat, a singular pulse that ignited creation itself. Suddenly, an unimaginable surge of energy erupted—a flash so blinding it birthed time, space, and the very laws that would bind all things together. It was the first breath, the first tear, the first scream of existence. This was the Big Bang. In less than the blink of an eye, the cosmos expanded faster than light itself, exploding from a point no larger than a grain of sand into an ocean of galaxies, nebulae, and stardust. The universe exhaled, and in that exhale, the potential for everything we would ever know was born.
@@ -11,7 +11,7 @@ From the scattered ashes of stars, Earth emerged—our home, our cradle, our beg
 
 #### We were nothing more than simple creatures at first, huddled in caves, fearing the unknown.
 
-<img src=".../visuals/texts/book_of_genesis/cave_monkeys.jpg" alt="cave_monkeys" width="700" height="700">
+<img src="/.../visuals/texts/book_of_genesis/cave_monkeys.jpg" alt="cave_monkeys" width="700" height="700">
 
 Our ancestors trembled in the darkness, their lives ruled by fear—fear of the thunder that split the sky, the beasts that stalked in the night, the shadows that loomed just beyond the firelight. Yet, even in that primordial terror, something extraordinary stirred within them. A spark, faint but unyielding—the flame of curiosity. It was this fire that pushed us from the safety of our caves into the vast unknown.
 
