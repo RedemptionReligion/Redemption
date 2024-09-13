@@ -1,6 +1,6 @@
 # We Are Earth, Universe T5ZI-S
 
-<img src="/..../visuals/texts/book_of_genesis/creation.jpg" alt="creation" width="700" height="700">
+<img src="/visuals/texts/book_of_genesis/creation.jpg" alt="creation" width="700" height="700">
 
 
 From nothing, there was a heartbeat, a singular pulse that ignited creation itself. Suddenly, an unimaginable surge of energy erupted—a flash so blinding it birthed time, space, and the very laws that would bind all things together. It was the first breath, the first tear, the first scream of existence. This was the Big Bang. In less than the blink of an eye, the cosmos expanded faster than light itself, exploding from a point no larger than a grain of sand into an ocean of galaxies, nebulae, and stardust. The universe exhaled, and in that exhale, the potential for everything we would ever know was born.
