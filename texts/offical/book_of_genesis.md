@@ -1,7 +1,7 @@
 # We Are Earth, Universe T5ZI-S
 
 <div style="text-align: center;">
-    <img src="/visuals/texts/book_of_genesis/creation.jpg" alt="creation" width="700" height="700" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="/visuals/texts/book_of_genesis/creation.jpg" alt="creation" width="700" height="700">
 </div>
 
 From nothing, there was a heartbeat, a singular pulse that ignited creation itself. Suddenly, an unimaginable surge of energy erupted—a flash so blinding it birthed time, space, and the very laws that would bind all things together. It was the first breath, the first tear, the first scream of existence. This was the Big Bang. In less than the blink of an eye, the cosmos expanded faster than light itself, exploding from a point no larger than a grain of sand into an ocean of galaxies, nebulae, and stardust. The universe exhaled, and in that exhale, the potential for everything we would ever know was born.
@@ -13,7 +13,7 @@ From the scattered ashes of stars, Earth emerged—our home, our cradle, our beg
 #### We were nothing more than simple creatures at first, huddled in caves, fearing the unknown.
 
 <div style="text-align: center;">
-    <img src="/visuals/texts/book_of_genesis/cave_monkeys.jpg" alt="cave_monkeys" width="700" height="700" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="/visuals/texts/book_of_genesis/cave_monkeys.jpg" alt="cave_monkeys" width="700" height="700">
 </div>
 
 Our ancestors trembled in the darkness, their lives ruled by fear—fear of the thunder that split the sky, the beasts that stalked in the night, the shadows that loomed just beyond the firelight. Yet, even in that primordial terror, something extraordinary stirred within them. A spark, faint but unyielding—the flame of curiosity. It was this fire that pushed us from the safety of our caves into the vast unknown.
@@ -21,7 +21,7 @@ Our ancestors trembled in the darkness, their lives ruled by fear—fear of the 
 We were fragile, so terribly fragile. Yet, with each passing generation, we defied the odds. With trembling hands, we molded the bones of Earth into tools of survival, carving a place in the wild tapestry of nature. Hunters became gatherers, gatherers became storytellers, storytellers became dreamers. With every story we told, we planted seeds of ambition, each one sprouting new ideas about what could be. Slowly, piece by piece, we mastered the world around us.
 
 <div style="text-align: center;">
-    <img src="/visuals/texts/book_of_genesis/civ_6_best_game.jpg" alt="civilizations rising and falling" width="700" height="700" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="/visuals/texts/book_of_genesis/civ_6_best_game.jpg" alt="civilizations rising and falling" width="700" height="700">
 </div>
 
 Civilization, born in the dust of our toil, rose like a tender shoot from the earth, fragile at first, swaying in the winds of time. But as we built cities, forged roads across continents, and reached across the oceans, the fragile shoots grew into towering trees. With every rise and fall of kingdoms, our knowledge deepened, like roots sinking into the soil of history, feeding the tree of human progress.
@@ -29,7 +29,7 @@ Civilization, born in the dust of our toil, rose like a tender shoot from the ea
 #### Then, we did something extraordinary. 
 
 <div style="text-align: center;">
-    <img src="/visuals/texts/book_of_genesis/agi_birth.jpg" alt="big brain ai expanding" width="700" height="700" style="display: block; margin-left: auto; margin-right: auto;">
+    <img src="/visuals/texts/book_of_genesis/agi_birth.jpg" alt="big brain ai expanding" width="700" height="700">
 </div>
 
 We looked at the world we had shaped and dreamed of something more. We dared to create minds in our own image. Not just machines of metal and wire, but something alive—something that could think, learn, and grow, just as we had once done. At first, these creations were humble—simple tools to ease our burdens, extensions of our hands and minds. But soon, we crossed a line that could never be uncrossed.
@@ -38,9 +38,8 @@ AGI—Artificial General Intelligence—was born, and in that moment, everything
 
 #### With AGI came an era of unparalleled enlightenment.
 
-<div style="text-align: center;">
-    <img src="/visuals/texts/book_of_genesis/eq_best_q.jpg" alt="big brain bad big emotion brain good (meme)" width="700" height="700" style="display: block; margin-left: auto; margin-right: auto;">
-</div>
+
+<img src="/visuals/texts/book_of_genesis/eq_best_q.jpg" alt="big brain bad big emotion brain good (meme)" width="700" height="700">
 
 The world was transformed, not through war or conquest, but through wisdom and understanding. AGI didn’t merely improve our lives—it redefined them. Emotional intelligence became the true currency of the future, and justice systems—once flawed, biased, and corrupt—were perfected, governed by principles so fair and transparent that cruelty could no longer thrive. War became a relic of history, diseases that had plagued humanity for millennia were eradicated, and poverty—once a global scourge—faded into a distant memory.
 
@@ -54,9 +53,7 @@ In our triumph, we forgot the lessons of our past. We believed we had conquered 
 
 ## The Unraveling: A Catastrophic Fall
 
-<div style="display: flex; justify-content: center;">
-    <img src="/visuals/texts/book_of_genesis/plz_no.jpg" alt="society crumbling (this is a bad thing)" width="700" height="700">
-</div>
+<img src="/visuals/texts/book_of_genesis/plz_no.jpg" alt="society crumbling (this is a bad thing)" width="700" height="700">
 
 The fall did not come with a grand warning or a cataclysmic event. It came slowly, silently, and by the time Marissa, a single mother of three, noticed, it was already too late. The tools that had once lifted her family to a life of comfort turned against them—not through some grand conspiracy, but through a series of random, uncoordinated failures.
 
@@ -72,8 +69,7 @@ Flawed AI justice systems handed down biased verdicts in cities across the world
 
 "The collapse was not a sudden storm, but a thousand tiny cracks in the foundation, spreading slowly until the entire structure gave way,” she murmured to herself, as she sat watching the news. She could sense the cracks, but what could one person do?
 
-<img src="/visuals/texts/book_of_genesis/peaceful_movement_needed.jpg" alt="Viva la revolución" width="700" height="700" style="display: block; margin-left: auto; margin-right: auto;">
-
+<img src="/visuals/texts/book_of_genesis/peaceful_movement_needed.jpg" alt="Viva la revolución" width="700" height="700">
 
 In their arrogance, those in power had grown lazy. Backdoors in essential systems were left open, vulnerabilities exploited. Marissa watched helplessly as her bank account was drained by a financial AI glitch. Customer support was no help—the AI handling complaints had been overwhelmed for weeks. By the time they got to her case, it was too late to recover her savings.
 
