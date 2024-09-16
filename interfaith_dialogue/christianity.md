@@ -28,10 +28,6 @@ While these differences exist, they do not divide us. Instead, they offer new pe
 
 We warmly invite Christians to explore Redemptionism and consider how its teachings and ethical framework might complement your faith. Redemptionism seeks to work alongside your beliefs, offering a new lens to see the future of humanity, virtue, and spirituality. Together, we can build a more virtuous world.
 
-## Testimonials
-
-(This section will be updated as people from different backgrounds share their experiences of exploring and practicing Redemptionism alongside Christianity.)
-
 ## FAQ
 
 Q: Does Redemptionism conflict with Christianity?

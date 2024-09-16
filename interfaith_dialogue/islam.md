@@ -26,10 +26,6 @@ Redemptionism, like Islam, places a high value on community (Ummah). We believe 
 
 We warmly invite you, as a follower of Islam, to explore Redemptionism and consider how its teachings on ethical living, personal growth, and community-building might complement your own spiritual journey. Redemptionism is not about replacing your faith but about offering new perspectives on ethical behavior and the afterlife, all while maintaining your commitment to Allah.
 
-### Testimonials
-
-(This section will be updated as Muslims share their experiences of exploring Redemptionism.)
-
 ### FAQ
 
 Q: Does Redemptionism conflict with Islam?
