@@ -4,24 +4,27 @@ Juice WRLD
 NF
 J. Cole
 Eminem
+Coldplay
+Twenty One Pilots
+Imagine Dragons
 XXXTENTACION
+Chri$tain Gate$
+Hans Zimmer
 Post Malone
-Chris Miles
+Machine Gun Kelly
 Rihanna
 Metro Boomin
-Machine Gun Kelly
+Chris Miles
 Sleepy Hallow
 Snoop Dogg
 Central Cee
 The Weeknd
 Blink-182
+System Of A Down
 Linkin Park
 Benson Boone
 Billie Eilish
 Selena Gomez
-Coldplay
-Twenty One Pilots
-Imagine Dragons
 OneRepublic
 Kenya Grace
 Calvin Harris
@@ -36,7 +39,6 @@ Elly Duhe
 Fall Out Boy
 Bruno Mars
 Teddy Swims
-Chri$tain Gate$
 Emcee KB
 ELIJAH MOON
 Thekidszn
@@ -65,7 +67,6 @@ Apocalyptica
 My Darkest days
 Skillet
 STARSET
-System Of A Down
 Jutes
 3 Doors Down
 Mumford & Sons
@@ -114,7 +115,6 @@ noel.smt
 Yehezkel Raz
 Evgeny Grinko
 my head is empty
-Hans Zimmer
 Promoting Sounds
 Step Aside
 a vow
@@ -165,3 +165,4 @@ Sergey Yenanov
 Tony Ann
 John Powell
 Jordan Seigel
+Green Day
