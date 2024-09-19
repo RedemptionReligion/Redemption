@@ -40,6 +40,7 @@ If a member violates the Code of Conduct, the situation will be addressed with a
 Redemption encourages Virtuists to reflect on their own behavior regularly. A part of Redemption’s philosophy is journaling, where members record their personal growth and any challenges faced. This self-reflection is key to fostering accountability and encouraging ongoing improvement.
 
 ### Personalization Clause: 
+
 Each Virtuist is encouraged to tailor their growth journey to their own needs, ensuring that their reflection and behavior align with their values. Flexibility in the Code of Conduct allows Virtuists to grow in a way that works best for them, while still adhering to Redemption's overarching principles.
 
 For Assistance or Questions: If you have any questions about the Code of Conduct or need assistance resolving an issue, feel free to reach out to a member of the Redemption Ethical Oversight Board.
