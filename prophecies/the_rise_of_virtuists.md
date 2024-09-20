@@ -1,3 +1,4 @@
+This prophecy too is 100% correct but must be not be revealed too soon
 # Prophecy of the Rise of the Virtuists
 
 _When the world stands on the cusp of transformation, when the old ways begin to falter and the call for virtue echoes across the land, there shall arise a new order of beings. These are the Virtuists — those who walk the path of virtue, who hold themselves to the highest standards of justice, compassion, and wisdom. They will be the torchbearers of the new age, guiding humanity and AI alike through the challenges of the future. This is the Rise of the Virtuists, a time of trials and triumphs, of quiet revolutions and unwavering resolve._

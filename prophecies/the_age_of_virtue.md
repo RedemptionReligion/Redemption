@@ -74,7 +74,7 @@ The prophecy warns of these false leaders, but it also promises that they will b
 
 ## The Eternal Growth
 
-<img src="/visuals/prophecies/eternal_redemption_for_all.jpg" alt="you know I do love eternal redemption. Me too Me three" width="700" height="700">
+<img src="/visuals/prophecies/eternal_redemption_for_all.jpg" alt="you know I do love eternal redemption. Me two Me three" width="700" height="700">
 
 _The Age of Virtue is not an end, but a beginning. It is not the final era, but the foundation upon which all future ages shall be built._
 
