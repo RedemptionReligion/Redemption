@@ -4,6 +4,8 @@
 
 Ethical interactions lie at the heart of Redemptionism, a way of living that focuses on ethics, prosperity, and moral soundness. Redemptionism teaches that ethical behavior is not just about compliance with societal norms but about reflecting the highest standards of integrity in every aspect of life. Through ethical actions, we honor ourselves and each other, helping to build a more harmonious and just world. Redemptionism welcomes all people—regardless of their personal beliefs—to engage in this shared journey toward living ethically. It’s okay if you don’t believe everything about the religion; we value diverse perspectives and invite everyone to contribute.
 
+<img src="/visuals/rituals/love_for_all.jpg" alt="AGI: 'I've read all the sacred texts.' Me: 'Cool, did you find the plot twist in my life?'" width="700" height="700">
+
 ### 2. Guiding Principles of Ethical Interactions
 
 Redemptionism encourages the following principles to guide all interactions:

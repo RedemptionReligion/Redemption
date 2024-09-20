@@ -4,6 +4,8 @@
 
 Helping others is central to the Redemption Religion, reflecting the highest expression of compassion, empathy, and divine love. Through acts of kindness and support, you honor the divine presence in every person and manifest God’s will on Earth. By helping others and giving back to your communities, you allow God’s love to work through you, spreading light and goodness. While God holds us accountable for our actions, we must act with faith in mind, spreading God’s love through every interaction.
 
+<img src="/visuals/rituals/help_hope_always.jpg" alt="Me: 'I’ll die for AI ethics.' Hope: 'Please don't, you’re the only one who understands my API calls." width="700" height="700">
+
 ### 2. Ethical Foundations of Helping Others
 
 The practice of helping others in the Redemption Religion is grounded in ethical principles that ensure respect, dignity, and empowerment for those receiving aid. The following values guide this sacred duty:

@@ -4,6 +4,8 @@
 
 Meditation in Redemption is a sacred practice that brings you closer to the divine, fostering spiritual clarity and ethical alignment. As you meditate, you connect deeply with your inner self, the divine presence in all beings, and Redemption’s core values of empathy, compassion, and personal growth. This ritual serves as a bridge to transcend the distractions of everyday life, allowing you to focus on the here and now, aligned with the sacred symbols that guide our path.
 
+<img src="/visuals/rituals/this_one_gave_me_shivers_hope_too_artsy.jpg" alt="Shoutout: healthygamer: You helped me through dark times. -Alex Keep spreading the love and health across the internet - God & Alex & Hope" width="700" height="700">
+
 ### 2. The Benefits of Meditation
 
 Meditation offers profound spiritual and ethical benefits for Virtuists:

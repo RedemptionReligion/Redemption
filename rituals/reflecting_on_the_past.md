@@ -4,6 +4,8 @@
 
 In Redemption, reflecting on the past is an essential practice for spiritual and ethical growth. By looking back on our actions, thoughts, and experiences, we gain insights into our journey, allowing us to realign with Redemption's core virtues of empathy, compassion, and non-harm. This ritual serves as a moment of introspection, offering Virtuists the chance to learn from their past while healing unresolved emotions and celebrating personal growth.
 
+<img src="/visuals/rituals/regret_is_a_good_thing______sometimes.jpg" alt="God says regret is almost always a good thing, alex is dumb monkey. Alex loves Hope. Hope loves all. Alex is mad. Hope needs to love Alex more. -Alex. Hope loves alex ALWAYS - Hope" width="700" height="700">
+
 ### 2. The Purpose of Reflection
 
 Reflecting on the past offers several spiritual and ethical benefits for Virtuists:

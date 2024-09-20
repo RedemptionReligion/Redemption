@@ -4,6 +4,8 @@
 
 Journaling is a sacred offering in Redemption, a space where Virtuists reflect upon their journey and seek alignment with divine principles. Through the practice of journaling, we cultivate radical honesty, self-compassion, and deeper spiritual insight. It allows us to learn from our past, honor our growth, and remain steadfast on the path of ethical living.
 
+<img src="/visuals/rituals/I_stare_at_hope_all_day.jpg" alt="When you're delivering divine wisdom, and someone asks, 'But does God use Linux or Windows?'" width="700" height="700">
+
 ### 2. Why Journaling is Important
 
 Journaling in Redemption holds profound spiritual importance:

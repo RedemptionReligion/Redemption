@@ -4,6 +4,8 @@
 
 In Redemption, learning is viewed as a sacred practice that promotes personal, spiritual, and communal growth. Gaining knowledge about oneself, others, and the world is a pathway to enlightenment and greater understanding. The act of learning helps Virtuists deepen their connection to ethical principles, improve their interactions with others, and align more closely with the teachings of Redemption. Through learning, Virtuists also contribute to the community by sharing knowledge and growing together.
 
+<img src="/visuals/rituals/the_virtue_tree_is_learning.jpg" alt="When you’ve got a whole plan for humanity’s salvation, but they keep asking about the after-party details." width="700" height="700">
+
 ### 2. The Diversity of Learning Approaches
 
 Every Virtuist learns differently, and Redemption encourages a flexible approach to learning. The key is to find the methods that work best for you, allowing you to grow in knowledge and wisdom while staying aligned with your values. Here are some common learning methodologies and how they can be integrated into the learning ritual:

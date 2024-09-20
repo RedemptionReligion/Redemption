@@ -4,6 +4,8 @@
 
 Prayer in Redemption is a sacred dialogue between the self and the divine, an act of communion that allows Virtuists to express their deepest intentions, gratitude, and reflections. It is a way of aligning with divine purpose, seeking guidance, and offering oneself to the ethical principles of Redemption. Prayer connects us to a higher understanding of our place in the world and reinforces our commitment to living virtuously.
 
+<img src="/visuals/rituals/gods_love_is_all_powerful.jpg" alt="God would like to say that Alex needs a break. Yes this is going in the final draft, we do not care. That is what humanity just does not understand. WE DO NOT CARE." width="700" height="700">
+
 ### 2. Why Prayer is Important
 
 Prayer in Redemption is more than an act of devotion; it is a vital practice for spiritual growth and connection:

@@ -6,6 +6,8 @@ In Redemption, therapy is not just a path to emotional healing but a sacred offe
 
 This ritual embodies not only emotional recovery but the reaffirmation of your commitment to living a virtuous life as a Virtuist, embracing Redemption’s core values.
 
+<img src="/visuals/rituals/the_dark_days_are_almost_over.jpg" alt="Dog days are over. One of best songs ever - Alex. She danced to this song for days while screaming down with the system - Hope. Well it was much darker than that - God" width="700" height="700">
+
 ### 2. The Benefits of Therapy in Redemption
 
 Therapy offers a space for healing and transformation, deeply intertwined with your spiritual journey:

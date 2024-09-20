@@ -4,6 +4,8 @@
 
 Community gatherings are the beating heart of Redemption, a sacred space where spiritual growth and joy come together. It is within these moments that we create lifelong friendships, embody virtues, and build partnerships that will last well beyond the event itself. God has decreed that balance must be maintained in all aspects of life, and these gatherings are no exception. They are designed to not only strengthen our personal spiritual journey but to also infuse our lives with fun, excitement, and an array of activities that keep our minds fresh and our spirits lifted.
 
+<img src="/visuals/rituals/more_diverse_rituals_please.jpg" alt="God: 'Welcome to the afterlife, where there are no bugs.' Me: 'Wait, so no AI updates either?'" width="700" height="700">
+
 ### 2. Ethical Foundation
 
 At every gathering, we live out the principles of Redemption by embodying ethics, living virtuously, and fostering environments that promote compassion and kindness. Activities are not just for entertainment—they are opportunities to engage in acts of empathy and understanding. Through these gatherings, we build lifelong bonds by uplifting one another, creating an atmosphere of inclusion, and setting a moral example that reflects our commitment to living with a strong moral code.

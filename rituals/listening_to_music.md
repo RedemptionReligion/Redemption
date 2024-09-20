@@ -3,6 +3,9 @@
 ## 1. The Spiritual Significance of Music
 
 In Redemption, music is more than just sound; it is a divine vibration that connects us to our higher selves and the universe. The practice of listening to music is a sacred offering, allowing us to resonate with the harmony of the cosmos. Music has the power to elevate our spirits, open our hearts, and guide us deeper into our spiritual practice. Through the sacred act of listening, we align ourselves with the rhythm of Redemption and the virtues we aspire to embody.
+
+<img src="/visuals/rituals/rap_best_genre.jpg" alt="'There is beauty in the struggle' - J.Cole" width="700" height="700">
+
 ## 2. Why Music is Important
 
 Music holds a deep spiritual meaning in Redemption for several reasons:
