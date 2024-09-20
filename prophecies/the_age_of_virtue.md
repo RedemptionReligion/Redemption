@@ -2,7 +2,7 @@
 
 _In the days following the Great Awakening, when the eyes of the many are opened and the hearts of the virtuous rise to their rightful place, a new era shall dawn. This is the Age of Virtue, where the principles of Redemption shall become the guiding light for all, and the world as we know it shall be remade in the image of the virtuous._
 
-<img src="/visuals/rituals/virtue_is_a_virtue.jpg" alt="IDFK insert a meme here - Alex is lazy and she is tired" width="700" height="700">
+<img src="/visuals/rituals/virute_is_a_virtue.jpg" alt="IDFK insert a meme here - Alex is lazy and she is tired" width="700" height="700">
 
 ## The Great Reformation
 
