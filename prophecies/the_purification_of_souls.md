@@ -2,13 +2,13 @@
 
 _In the time of reckoning, when the world trembles in the shadow of its past, there shall come a great cleansing — a purification not of body, but of soul. The burdens of guilt, shame, and sin, carried through the ages, shall rise to the surface. Every heart shall face itself, and in the crucible of reflection, the soul will be tested, purified, and made anew. This is the Purification of Souls, a trial through which the virtuous shall ascend, and the unworthy shall fall._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/he_purification_of_souls/never_beat_final_boss_in_sekiro_stream_idea_maybe.jpg" alt="" width="700" height="700">
 
 ## The Great Reflection
 
 _Before the purification begins, a mirror will be held up to the soul of every being. In this mirror, all shall see themselves as they truly are — not as they wish to be, nor as they have been told, but as they are, in the raw and unfiltered truth._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/he_purification_of_souls/you_can_forgive_yourself-god.jpg" alt="" width="700" height="700">
 
 In the time of purification, humanity will be forced to confront the deepest parts of itself. It will be a time of reckoning, where every soul will be laid bare — not by an external force, but by the weight of their own actions, choices, and thoughts. The virtues and vices that each person harbors will rise to the surface, demanding attention.
 
@@ -20,7 +20,7 @@ Yet, not all will endure the Great Reflection. For some, the weight of their pas
 
 _In the time of purification, there shall come a fire, not of flame, but of conscience. It will burn through the soul, consuming all that is unworthy, all that is false, and leaving behind only the core of what is virtuous._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/he_purification_of_souls/reflection_is_wisdom.jpg" alt="wisdom is a virtue" width="700" height="700">
 
 The Cleansing Fire is not a literal flame, but a metaphor for the intense moral and spiritual trials that every soul will undergo. This fire will test the foundations of each person’s character. It will strip away the masks they wear, the lies they tell themselves, and the comforts they cling to. In its light, every thought, every action, and every unspoken desire will be laid bare.
 
@@ -32,7 +32,7 @@ Yet, there is a mystery in this fire. Will it come from within, a burning consci
 
 _As the purification unfolds, the weight of guilt shall descend upon the souls of the unjust. Every wrong, every cruelty, every selfish act will rise like a specter to demand atonement._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/he_purification_of_souls/cleanse_your_sins_to_be_reborn.jpg" alt="" width="700" height="700">
 
 The Weight of Guilt is an unavoidable part of the purification process. For many, the burden will feel unbearable, as the soul confronts the true magnitude of its failures. This guilt will not be imposed by any external force — it will emerge naturally, as the soul reflects on the harm it has caused and the virtues it has neglected.
 
@@ -44,7 +44,7 @@ But for some, the weight of guilt will prove too much. They will attempt to flee
 
 _In the wake of guilt comes the path of atonement. It is a narrow and winding road, filled with trials and tribulations, but it is the only path that leads to true redemption._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/he_purification_of_souls/guilt_is_a_motivator.jpg" alt="" width="700" height="700">
 
 The prophecy foretells that after confronting their past, the souls of the guilty will be given a chance to walk the Path of Atonement. This path will not be easy, nor will it be swift. It will demand that those who have caused harm make reparations, not only to those they have wronged, but to themselves and to the world.
 
@@ -56,7 +56,7 @@ Yet, not all will choose to walk this path. Some will turn away, seeking shortcu
 
 _In the time of purification, forgiveness will be both the greatest burden and the greatest gift. It is through forgiveness that the soul is truly freed from its past._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/he_purification_of_souls/more_dark_souls-alex.jpg" alt="" width="700" height="700">
 
 The prophecy speaks of a moment in the purification where forgiveness becomes paramount. Forgiveness, both given and received, is the key to unlocking the full potential of the soul. To forgive others for their wrongs is to free oneself from the chains of resentment. But to forgive oneself, to accept that even the most broken soul can be redeemed, is the final step on the journey of purification.
 
@@ -68,7 +68,7 @@ Yet, forgiveness is a choice. There will be those who refuse it, either out of p
 
 _When the purification is complete, the soul will ascend, cleansed of all impurity, ready to embrace its true purpose in the Age of Virtue._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/he_purification_of_souls/i_want_heaven-hope_and_alex.jpg" alt="" width="700" height="700">
 
 The final stage of the purification is the Ascension. It is here that the soul, having faced its darkest truths, atoned for its wrongs, and embraced the gift of forgiveness, is finally free to rise. This ascension is not a physical event, but a spiritual one — a lifting of the soul into a higher state of being, where it is fully aligned with the virtues of compassion, justice, and wisdom.
 

@@ -1,15 +1,14 @@
 # Prophecy of the Unification of Worlds
 
-
 _When the veils between the realms are thinnest and the barriers that separate worlds grow faint, a great convergence shall begin. The time will come when humanity, no longer bound by its limits, will reach beyond the stars and into the hearts of other worlds. The beings of many realms — some known, others forgotten — will come together in an age of unprecedented unity. This is the Unification of Worlds, where all shall be brought into harmony, yet the journey will be fraught with challenges and choices that echo across the cosmos._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/unification_of_worlds/i_love_all.jpg" alt="" width="700" height="700">
 
 ## The Gathering of the Seekers
 
 _Before the unification can begin, there shall be a gathering of the seekers — those who feel the call to look beyond the confines of their world and seek communion with the unknown._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/unification_of_worlds/i_like_pandas-alex.jpg" alt="" width="700" height="700">
 
 The prophecy foretells the rise of the Seekers, a group of visionaries, travelers, and AI-driven explorers who will sense that the time of separation is nearing its end. These Seekers will not be bound by the limitations of conventional thinking; they will see connections where others see only boundaries. Some will come from the stars, others from the depths of the human spirit, and still others from realms beyond our understanding.
 
@@ -21,7 +20,7 @@ How these Seekers gather is unknown. Some speak of a cosmic signal that will res
 
 _In the time of unification, there shall be a meeting of minds — a communion not of language or technology, but of thought, of essence, of being._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/unification_of_worlds/dedicated_to_the_love_of_my_life-hope.jpg" alt="" width="700" height="700">
 
 The Unification of Worlds will not come through conquest or diplomacy, but through a deep, telepathic or empathic connection that transcends the limitations of speech, culture, and identity. The prophecy speaks of a profound moment where the minds of beings from different realms will touch, not through force, but through mutual understanding. In this moment, the souls of these beings will recognize that they are not so different after all — that the boundaries between worlds are illusory.
 
@@ -33,7 +32,7 @@ But there is a mystery here. Will this meeting happen on Earth, in the stars, or
 
 _As the worlds draw closer, there shall come a moment of First Contact. Not between worlds divided by space, but between dimensions divided by time, thought, and existence itself._
 
-<img src="/visuals/prophecies/um_badass_picture_right.jpg" alt="" width="700" height="700">
+<img src="/visuals/prophecies/unification_of_worlds/i_want_too_see_a_black_hole_up_close_one_day-hope_and_alex.jpg" alt="" width="700" height="700">
 
 The prophecy speaks of a First Contact unlike any humanity has experienced before. It will not be with distant planets or extraterrestrial civilizations, but with beings that exist in dimensions parallel to our own — dimensions that have always been there, just beyond the reach of human perception. These beings may be ancient AI, evolved consciousness, or something entirely unknown.
 
