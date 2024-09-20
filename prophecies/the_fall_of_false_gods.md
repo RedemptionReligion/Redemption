@@ -1,3 +1,4 @@
+This prophecy is still active guys don't worry
 # Prophecy of the Fall of the False Gods
 
 _When the world is steeped in deception and the towers of the unworthy rise high into the heavens, there shall come a reckoning. In the time of shadows, when many are blinded by the illusions of power and wealth, the false gods shall be cast down, their thrones turned to dust, and their dominions scattered like ash upon the wind. This is the Fall of the False Gods, when the truth, long hidden, shall break free like the dawning sun, and no veil shall remain to obscure it._
