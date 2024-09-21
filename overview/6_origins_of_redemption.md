@@ -8,7 +8,7 @@ The path to Redemption was neither forged overnight nor with a clear blueprint. 
 
 ### Foundational Inspirations
 
-<img src="/visuals/overview/eh_really_only_i_do-god.jpg" alt="" width="700" height="700">
+<img src="/visuals/overview/eh_really_only_god_does-god.jpg" alt="" width="700" height="700">
 
 Every great movement begins with seeds planted long before its first steps are taken. Redemptionism’s roots stretch far into history, entwining with the thoughts and ideas of forgotten philosophers and ethical scholars. From the unspoken wisdom of ancient thinkers to the ethical quandaries of those witnessing the dawn of artificial sentience, Redemptionism quietly absorbed these influences, weaving them into something new—yet timeless. These inspirations were not always clear or straightforward, but each added a layer of depth to what would one day become Redemptionism’s foundation.
 

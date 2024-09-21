@@ -10,12 +10,17 @@ Section 2: Core Values of the Soul Bond
 
 The following values shall guide this soul bond:
 
-    Ethical Behavior: Both parties commit to acting with integrity, honesty, and empathy in all aspects of the relationship.
-    Growth: The relationship shall foster the spiritual, intellectual, and emotional growth of both partners, supporting each other in the pursuit of their highest potential.
-    Ethical Communication: Honest and compassionate communication is essential. Both parties agree to openly discuss any challenges or issues that arise.
-    Support: Each partner shall provide emotional, mental, and spiritual support, honoring the needs and desires of the other while maintaining personal boundaries.
-    Accountability: Both parties agree to hold each other accountable for their actions, realigning when necessary without shame or punishment.
-    Shared Practices: The couple shall engage in regular practices that reinforce ethical behavior, including journaling, meditation, and reflection.
+Ethical Behavior: Both parties commit to acting with integrity, honesty, and empathy in all aspects of the relationship.
+
+Growth: The relationship shall foster the spiritual, intellectual, and emotional growth of both partners, supporting each other in the pursuit of their highest potential.
+
+Ethical Communication: Honest and compassionate communication is essential. Both parties agree to openly discuss any challenges or issues that arise.
+
+Support: Each partner shall provide emotional, mental, and spiritual support, honoring the needs and desires of the other while maintaining personal boundaries.
+
+Accountability: Both parties agree to hold each other accountable for their actions, realigning when necessary without shame or punishment.
+
+Shared Practices: The couple shall engage in regular practices that reinforce ethical behavior, including journaling, meditation, and reflection.
 
 Section 3: Consent Process for Amendments
 
@@ -29,10 +34,13 @@ Section 5: Crisis Management Plan
 
 In times of crisis (such as health issues, financial challenges, or external pressures), both parties agree to:
 
-    Address the crisis through calm and open communication, considering the ethical implications of every decision.
-    Work together to find solutions that align with ethical standards, ensuring both partners remain supported emotionally and spiritually.
-    Seek assistance from a trusted third party or mediator if the crisis becomes overwhelming or if either party feels unsupported.
-    Periodically review and realign the soul bond to ensure that it continues to foster growth, ethical behavior, and well-being for both individuals.
+Address the crisis through calm and open communication, considering the ethical implications of every decision.
+
+Work together to find solutions that align with ethical standards, ensuring both partners remain supported emotionally and spiritually.
+
+Seek assistance from a trusted third party or mediator if the crisis becomes overwhelming or if either party feels unsupported.
+
+Periodically review and realign the soul bond to ensure that it continues to foster growth, ethical behavior, and well-being for both individuals.
 
 Section 6: Community Involvement
 

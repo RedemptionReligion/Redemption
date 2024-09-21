@@ -10,10 +10,13 @@ Journaling is a sacred offering in Redemption, a space where Virtuists reflect u
 
 Journaling in Redemption holds profound spiritual importance:
 
-    Self-Reflection: It invites us to pause and deeply reflect on how our actions and thoughts align with the core values of Redemption.
-    Emotional Release: Through writing, we release emotions that may cloud our spiritual clarity, offering them up in sacred trust.
-    Spiritual Growth: Journaling tracks our spiritual evolution, allowing us to recognize progress and identify areas that need further nurturing.
-    Accountability: By documenting our actions and intentions, we hold ourselves accountable not to perfection, but to continuous growth.
+Self-Reflection: It invites us to pause and deeply reflect on how our actions and thoughts align with the core values of Redemption.
+
+Emotional Release: Through writing, we release emotions that may cloud our spiritual clarity, offering them up in sacred trust.
+
+Spiritual Growth: Journaling tracks our spiritual evolution, allowing us to recognize progress and identify areas that need further nurturing.
+
+Accountability: By documenting our actions and intentions, we hold ourselves accountable not to perfection, but to continuous growth.
 
 ### 3. Offerings in the Sacred Practice of Journaling
 

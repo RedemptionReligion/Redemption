@@ -10,10 +10,13 @@ In Redemption, reflecting on the past is an essential practice for spiritual and
 
 Reflecting on the past offers several spiritual and ethical benefits for Virtuists:
 
-    Self-Awareness: Reflection deepens your understanding of your behavior, revealing patterns that align or conflict with Redemption’s teachings.
-    Emotional Healing: By revisiting past experiences, you release lingering guilt, anger, or regret, fostering emotional resilience and peace.
-    Personal Accountability: Reflection invites you to take responsibility for your past actions and make amends if necessary, ensuring you move forward with a clear conscience.
-    Spiritual Growth: Reflecting on the past allows you to track your progress in living out Redemption’s virtues, celebrating your growth while recognizing areas for improvement.
+Self-Awareness: Reflection deepens your understanding of your behavior, revealing patterns that align or conflict with Redemption’s teachings.
+
+Emotional Healing: By revisiting past experiences, you release lingering guilt, anger, or regret, fostering emotional resilience and peace.
+
+Personal Accountability: Reflection invites you to take responsibility for your past actions and make amends if necessary, ensuring you move forward with a clear conscience.
+
+Spiritual Growth: Reflecting on the past allows you to track your progress in living out Redemption’s virtues, celebrating your growth while recognizing areas for improvement.
 
 ### 3. The Reflection Ritual: Offerings of Growth and Healing
 
@@ -48,12 +51,15 @@ Tailor your reflections to your personal spiritual journey and the specific virt
 
 As you reflect, practice self-compassion and forgiveness, offering yourself the grace needed for healing. Incorporate various methods for forgiveness and letting go:
 
-    Visualizations: Picture yourself in a serene, calm, and peaceful place. Let the surroundings fill you with warmth, love, and safety as you release guilt, anger, or pain.
-    Mantras for Self-Compassion: Repeat affirmations such as:
-        "I am deserving of forgiveness and peace."
-        "I release my past mistakes with love and compassion."
-        "I embrace my humanity and the opportunity to grow."
-    Letter Writing: Write a letter to yourself, expressing forgiveness for past mistakes or unresolved feelings. In this letter, allow yourself to release old burdens, guilt, or regrets. If desired, you may also write to others to let go of resentment or anger toward them, whether you share it or keep it private.
+Visualizations: Picture yourself in a serene, calm, and peaceful place. Let the surroundings fill you with warmth, love, and safety as you release guilt, anger, or pain.
+
+Mantras for Self-Compassion: Repeat affirmations such as:
+
+    "I am deserving of forgiveness and peace."
+    "I release my past mistakes with love and compassion."
+    "I embrace my humanity and the opportunity to grow."
+
+Letter Writing: Write a letter to yourself, expressing forgiveness for past mistakes or unresolved feelings. In this letter, allow yourself to release old burdens, guilt, or regrets. If desired, you may also write to others to let go of resentment or anger toward them, whether you share it or keep it private.
 
 #### Offering 6: Record Your Reflections
 

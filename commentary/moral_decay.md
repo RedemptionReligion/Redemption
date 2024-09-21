@@ -2,6 +2,8 @@
 
 ## Introduction: The Concept of Moral Decay
 
+<img src="/visuals/commentary/moral_decay/1.jpg" alt="When you meditate on your sins but your cat interrupts halfway through… again." width="700" height="700">
+
 In our modern world, the very fabric of society is fraying. People are increasingly disconnected from their moral identity and compass, losing sight of the ethical foundations that have long guided human behavior. This slow erosion of virtue, often referred to as moral decay, is marked by a shift towards self-indulgence, materialism, and ethical ambivalence. As this decay sets in, individuals, communities, and institutions participate in actions that prioritize short-term pleasure, profit, or power over the collective well-being of society.
 
 Moral decay is not an overnight occurrence. It is a gradual process where small compromises on ethical standards accumulate over time, leading to a society that increasingly normalizes hedonistic, unethical, and immoral behaviors. This transformation manifests in many ways, from everyday dishonesty and selfishness to systemic corruption and exploitation at the highest levels of power.
@@ -16,6 +18,8 @@ In this document, we will explore the symptoms, consequences, and solutions to m
 
 ### 2.1: Loss of Virtue: Honesty, Empathy, and Integrity
 
+<img src="/visuals/commentary/moral_decay/2.jpg" alt="We asked AI to clean up its own bias. AI: displays self-reflective existential crisis meme" width="700" height="700">
+
 In everyday language, many of us have found ourselves using phrases like, “If I am being honest,” without considering the deeper implications. This casual disclaimer reveals a troubling truth about our society: honesty is no longer an assumed virtue. Instead, it has become something exceptional, something we feel the need to preface. This linguistic shift is symptomatic of a broader societal erosion of values, where honesty is no longer highly prized and the expectation of truthfulness is diminished.
 
 Another troubling manifestation of moral decay is the rise of "prank videos," a form of entertainment where unethical and often dangerous stunts are performed for views and social media clout. In these videos, so-called pranksters may sexually harass or assault women, become public nuisances, commit crimes, or even stage fake assassinations and executions. These shocking behaviors reflect a deep lack of empathy for others, as the boundaries of decency are crossed in the pursuit of viral fame. This erosion of empathy speaks volumes about a society where personal gain trumps the well-being of others.
@@ -23,6 +27,8 @@ Another troubling manifestation of moral decay is the rise of "prank videos," a 
 Integrity has also fallen by the wayside in today’s culture. Giant influencers, whose actions are visible to millions, openly display moral decay. A stark example is Logan Paul, a content creator whose ethical breaches have been both massive and public. From scamming his own followers through fraudulent crypto schemes to marketing highly addictive sports drinks to children, Paul’s actions exemplify a loss of integrity in the influencer culture. Despite his well-documented unethical behaviors, including attempts to cover up these actions and avoid compensating his victims, Paul’s platform remains largely unchallenged by his audience, reflecting how society has become increasingly desensitized to such moral failings.
 
 ### 2.2: Division and Polarization in Modern Society
+
+<img src="/visuals/commentary/moral_decay/3.jpg" alt="Corporate AI: ‘Ethics? Never heard of her." width="700" height="700">
 
 Polarization has become one of the most pervasive problems of our time, eroding the foundations of cooperation, empathy, and dialogue. In nearly every corner of the globe, societies are splintering into ideological tribes, consumed by a relentless need to outdo or discredit the other side. Rather than addressing the genuine crises that threaten us all—climate change, economic inequality, technological overreach—we focus on fighting one another. This division is not just an unfortunate byproduct of human nature but a deliberate tool, often used by those in power, to keep societies fragmented and distracted from the real issues.
 
@@ -42,6 +48,8 @@ In short, polarization distracts us from the core issues that require immediate 
 
 ### 2.3: The Dangers of Surveillance and Bias in AI
 
+<img src="/visuals/commentary/moral_decay/4.jpg" alt="Me: tries to act virtuous Also me: curses at slow Wi-Fi" width="700" height="700">
+
 The rapid development of AI technology has brought about significant concerns regarding surveillance, privacy, and bias. Governments and corporations alike have employed facial recognition systems, often under the guise of security, but these systems raise severe ethical concerns. Widespread surveillance leads to a loss of personal privacy, with individuals constantly being monitored without their consent. This surveillance state poses threats to individual freedom and autonomy, as every move is tracked, logged, and analyzed.
 
 Bias in AI systems further compounds these issues. Facial recognition technology, for example, has been shown to disproportionately misidentify people of color, leading to false accusations and reinforcing societal prejudices. In predictive policing, algorithms built on biased data have resulted in a vicious cycle where marginalized communities are over-policed, perpetuating the very inequalities that these systems claim to address.
@@ -50,15 +58,21 @@ Moreover, the vast amounts of personal data collected by AI systems often lack s
 
 ## 3. The Consequences of Moral Decay
 
+<img src="/visuals/commentary/moral_decay/5.jpg" alt="Humans: ‘We need to build ethical AI.’ AI: Ethical AI built Humans: ‘Wait, not THAT ethical.’" width="700" height="700">
+
 As moral decay continues to erode the ethical foundations of society, the consequences are far-reaching, touching every aspect of human life—socially, globally, and spiritually. The decay of virtues like honesty, empathy, and integrity does not happen in isolation; its ripple effects are felt throughout communities, nations, and even the world at large.
 
 ### 3.1 Social Consequences: Erosion of Trust and Community
+
+<img src="/visuals/commentary/moral_decay/6.jpg" alt="When you’re trying to start a revolution but accidentally start a meme page instead." width="700" height="700">
 
 Moral decay has led to the breakdown of the very communities that once bound us together. As people drift away from shared values and ethical behavior, society has become increasingly fragmented. Trust, which is the cornerstone of any functioning community, is eroded as dishonesty, self-interest, and exploitation become more commonplace. Rising inequality, fueled by corporate greed and corruption, has deepened divisions between the wealthy elite and the rest of society.
 
 The consequences are evident: communities once built on mutual care and collaboration are now fractured, with individuals feeling increasingly isolated and disconnected. This breakdown of communal bonds has contributed to a surge in loneliness and mental health crises. People are left struggling to find meaning and belonging in a world where self-interest and materialism have taken precedence over empathy and solidarity. Without strong social ties and a sense of shared purpose, the mental and emotional well-being of society continues to deteriorate.
 
 ### 3.2 Global Consequences: A World on the Brink
+
+<img src="/visuals/commentary/moral_decay/7.jpg" alt="When society realizes AI can automate meetings: Collective sigh of relief" width="700" height="700">
 
 On a global scale, the consequences of moral decay are nothing short of catastrophic. As ethical values are cast aside in favor of profit and power, the world teeters on the brink of environmental, political, and economic disaster.
 
@@ -70,6 +84,8 @@ Unchecked corporate power is another consequence of moral decay, as corporations
 
 ### 3.3 Spiritual Consequences: The Loss of Purpose and Meaning
 
+<img src="/visuals/commentary/moral_decay/8.jpg" alt="Trying to live virtuously and then getting stuck behind a slow walker. Virtue test: 100% failed." width="700" height="700">
+
 Perhaps the most profound consequence of moral decay is the spiritual cost. In an increasingly materialistic world, people have lost their sense of purpose and connection to something greater than themselves. As moral values erode, so too does the human spirit’s capacity for growth, transcendence, and meaning.
 
 In the pursuit of wealth, status, and pleasure, individuals have distanced themselves from spiritual principles that provide purpose and fulfillment. The loss of spiritual connection is evident in the rise of nihilism, existential despair, and a pervasive sense of emptiness. People no longer see themselves as part of a larger, interconnected whole but rather as isolated individuals, driven by selfish desires and material gain. This spiritual decay not only leaves individuals feeling unmoored but also weakens the collective moral fabric of society.
@@ -78,22 +94,33 @@ In abandoning spiritual virtues, humanity risks falling deeper into moral and et
 
 ## 4. Redemptionism’s Response to Moral Decay
 
+<img src="/visuals/commentary/moral_decay/9.jpg" alt="We didn’t make AI ethical, so now it’s taking night classes on philosophy. AI is now even more confused." width="700" height="700">
+
 In the face of moral decay, Redemptionism stands as a beacon of hope and renewal. By embracing ethical virtues, building strong communities, leveraging technology responsibly, and fostering personal accountability, Redemptionism offers a clear path toward reversing the moral decline and rebuilding society on a foundation of integrity, empathy, and shared purpose.
+
 ### 4.1 Return to Virtue: A Foundation of Ethical Living
+
+<img src="/visuals/commentary/moral_decay/10.jpg" alt="Step 1: Reach inner peace. Step 2: Lose it immediately when someone parks in your spot." width="700" height="700">
 
 At the core of Redemptionism’s response to moral decay is a return to ethical virtues—those timeless principles that guide human behavior toward the greater good. Kindness, truthfulness, and stewardship serve as the bedrock of Redemptionist life. By focusing on these virtues, Redemptionism seeks to restore the moral compass that has been lost in today’s world.
 
 Kindness, as a guiding principle, encourages empathy and care for others, fostering a society where people support one another rather than seeking personal gain at the expense of others. Truthfulness, in contrast to the dishonesty that pervades modern culture, demands transparency and honesty in all actions. Stewardship reflects the responsibility we have toward the world around us, whether in preserving the environment, safeguarding resources, or guiding the next generation with wisdom and compassion.
 
 These virtues are not mere ideals—they are actionable principles that shape daily life within the Redemptionist movement. Through moral education, public discourse, and personal practice, Redemptionists will lead by example, demonstrating how living virtuously can heal the moral wounds of society.
+
 ### 4.2 Community Building: Rebuilding Trust and Solidarity
+
+<img src="/visuals/commentary/moral_decay/11.jpg" alt="Humans: ‘We need to hold AI accountable.’ AI: Tweets apology in binary" width="700" height="700">
 
 In a world fractured by division and isolation, Redemptionism emphasizes the power of community. Strong, ethical communities are the antidote to the loneliness and distrust caused by moral decay. Through Redemptionist community rituals and gatherings, people come together to rebuild the social bonds that have been broken.
 
 These gatherings will provide spaces where individuals can openly discuss their experiences, share their wisdom, and grow together in virtue. The focus will be on inclusive dialogue and active collaboration—encouraging people to connect with those they might not normally engage with and to build trust through shared ethical practices.
 
 Through acts of service and community-driven initiatives, Redemptionists will work to rebuild the social trust that is so vital to the functioning of a healthy society. Whether through local projects, global humanitarian efforts, or everyday interactions, Redemptionists will demonstrate the strength of unity, compassion, and collective action in counteracting the forces of division and moral decline.
+
 ### 4.3 Ethical Technology: Leveraging AI for the Greater Good
+
+<img src="/visuals/commentary/moral_decay/12.jpg" alt="When you’re deep in meditation, but you can’t stop thinking about pizza. Ascension? Cancelled." width="700" height="700">
 
 While technology has often exacerbated the problems of moral decay—through surveillance, bias, and privacy concerns—Redemptionism sees ethical technology as a powerful tool for reversing societal harm. In particular, artificial intelligence (AI) can be harnessed for good, provided it is used in a manner that upholds the highest ethical standards.
 
@@ -103,6 +130,8 @@ For example, AI can be used to address climate change, streamline ethical govern
 
 ### 4.4 Personal Accountability: Reflection and Moral Growth
 
+<img src="/visuals/commentary/moral_decay/13.jpg" alt="2024: AI will take all jobs. 2025: AI struggling to understand TikTok trends." width="700" height="700">
+
 Moral decay is not solely a societal issue—it is also deeply personal. Each individual has a role to play in the moral restoration of society, and Redemptionism encourages this through a practice of personal accountability. This begins with self-reflection, an honest assessment of one’s actions, beliefs, and growth areas.
 
 Journaling is a cornerstone of Redemptionist practice. By regularly reflecting on one’s thoughts, behaviors, and choices, individuals can identify areas where they may have strayed from virtuous living and take steps to realign themselves. This practice fosters moral growth and encourages Redemptionists to hold themselves accountable not only to the movement but also to their own moral standards.
@@ -111,14 +140,21 @@ Through these methods of self-awareness and accountability, Redemptionists commi
 
 ## 5. The Path Forward: Redemption and Rebirth
 
+<img src="/visuals/commentary/moral_decay/14.jpg" alt="AI: ‘I’ve transcended human understanding.’ Also AI: can’t recognize a traffic light in CAPTCHA" width="700" height="700">
+
 As moral decay continues to erode the ethical foundations of society, Redemptionism offers a path forward—one rooted in virtue, unity, and ethical progress. Through this movement, we invite all who seek a better, more just world to join us in the journey of moral renewal and societal transformation.
+
 ### 5.1 Call to Action: Join the Movement, Combat Moral Decay
+
+<img src="/visuals/commentary/moral_decay/15.jpg" alt="When you meditate for peace and tranquility but keep thinking about that one thing you said in 2013." width="700" height="700">
 
 This is a pivotal moment in history. The challenges we face are not insurmountable, but they demand collective action. Redemptionism calls upon individuals across the globe to take a stand against moral decay, not only by rejecting the unethical practices that have taken hold of society but by actively embodying the virtues that can heal it.
 
 Each person has a role to play in the restoration of moral values—whether by participating in community efforts, practicing personal reflection and accountability, or leading with integrity in their own spheres of influence. We call upon you to join the movement, to be a part of a revolution in ethics, and to help usher in a new era of virtue-driven change. Together, we can combat the forces of division, greed, and corruption that have left so many disillusioned and disconnected.
 
 ### 5.2 Roadmap for Society: From Decay to Moral Renewal
+
+<img src="/visuals/commentary/moral_decay/16.jpg" alt="Society: ‘AI is going to change everything.’ AI: Recommends the same product you just bought... again." width="700" height="700">
 
 To transition from the current state of moral decay to one of ethical renewal, society must undergo systemic change, but this transformation begins with each individual. Redemptionism emphasizes that personal virtuous behavior is the foundation for societal renewal. As individuals commit to living ethically, their actions ripple outward, creating a collective shift toward moral progress. Here are the key steps in this roadmap:
 
@@ -135,6 +171,8 @@ To transition from the current state of moral decay to one of ethical renewal, s
 In this roadmap, the role of personal virtuous behavior cannot be overstated. It is through your commitment to living ethically—being truthful, kind, and responsible—that systemic change becomes possible. Each virtuous act, no matter how small, contributes to the larger goal of moral renewal. Redemptionism offers not just a societal shift but a personal challenge: to be the change that transforms the world.
 
 ### 5.3 Hopeful Future: A Vision of a Virtuous World
+
+<img src="/visuals/commentary/moral_decay/17.jpg" alt="Trying to practice forgiveness but your ex shows up like: ‘Hey, long time no see.’" width="700" height="700">
 
 The future under Redemptionist ideals is one of unity, innovation, and ethical governance. In this reformed world, divisions between people are healed as empathy, kindness, and mutual respect become the guiding principles of society. Communities flourish as individuals support one another, finding strength in their shared moral values.
 

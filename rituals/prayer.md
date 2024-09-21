@@ -10,10 +10,13 @@ Prayer in Redemption is a sacred dialogue between the self and the divine, an ac
 
 Prayer in Redemption is more than an act of devotion; it is a vital practice for spiritual growth and connection:
 
-    Divine Communion: Prayer strengthens our connection to the divine, reminding us of our spiritual purpose and the greater ethical framework that guides our lives.
-    Intention Setting: Through prayer, we express our intentions and commit to the virtues of Redemption.
-    Gratitude and Humility: Prayer fosters a heart full of gratitude and humility, acknowledging the blessings and lessons that shape our journey.
-    Reflection and Clarity: It is a time for quiet reflection, offering clarity when faced with challenges or ethical dilemmas.
+Divine Communion: Prayer strengthens our connection to the divine, reminding us of our spiritual purpose and the greater ethical framework that guides our lives.
+
+Intention Setting: Through prayer, we express our intentions and commit to the virtues of Redemption.
+
+Gratitude and Humility: Prayer fosters a heart full of gratitude and humility, acknowledging the blessings and lessons that shape our journey.
+
+Reflection and Clarity: It is a time for quiet reflection, offering clarity when faced with challenges or ethical dilemmas.
 
 ### 3. The Sacred Practice of Prayer
 
@@ -27,10 +30,10 @@ As with other rituals in Redemption, begin by creating a sacred space for prayer
 
 Start your prayer by offering gratitude. Acknowledge the blessings in your life, both small and large, and express your thankfulness to the divine. Gratitude shifts your focus to the abundance in your life and reinforces your connection to the virtues of Redemption. You may say something like:
 
-"I give thanks for the wisdom that guides me,
-For the love that surrounds me,
-For the lessons that teach me,
-And for the virtues that shape my path."
+    "I give thanks for the wisdom that guides me,
+    For the love that surrounds me,
+    For the lessons that teach me,
+    And for the virtues that shape my path."
 
 #### Offering 3: Reflect on Your Spiritual Journey
 
@@ -46,28 +49,28 @@ This reflection aligns your prayer with your personal journey, making it a heart
 
 Prayer in Redemption allows for personal petitions, whether they are for guidance, strength, healing, or clarity. Speak from your heart, asking the divine for what you need in this moment of your life. Be open and honest in your request, knowing that the divine presence listens with compassion. You might say:
 
-"Divine wisdom, guide me as I seek to grow in virtue.
-Grant me the strength to navigate my challenges with grace,
-The clarity to see truth in all things,
-And the compassion to serve others with love."
+    "Divine wisdom, guide me as I seek to grow in virtue.
+    Grant me the strength to navigate my challenges with grace,
+    The clarity to see truth in all things,
+    And the compassion to serve others with love."
 
 #### Offering 5: Align with Virtue
 
 Prayer in Redemption is not only about seeking guidance but also about reaffirming your commitment to living virtuously. As part of your prayer, commit to specific virtues you will focus on in the days ahead. You may pray:
 
-"I commit myself to patience, compassion, and honesty.
-May my actions reflect the values of Redemption,
-And may I walk the path of virtue with integrity and love."
+    "I commit myself to patience, compassion, and honesty.
+    May my actions reflect the values of Redemption,
+    And may I walk the path of virtue with integrity and love."
 
 #### Offering 6: Close with Gratitude and Surrender
 
 Conclude your prayer with a closing moment of gratitude and surrender. Acknowledge that while you seek guidance and strength, you also trust in the unfolding of your path. Surrender the outcome to the divine, recognizing that spiritual growth often comes in unexpected ways. You might say:
 
-"I give thanks for the guidance I have received,
-And I surrender my will to the divine wisdom.
-May my path be aligned with the greater good,
-And may I walk in peace and trust,
-Knowing that I am held in divine love."
+    "I give thanks for the guidance I have received,
+    And I surrender my will to the divine wisdom.
+    May my path be aligned with the greater good,
+    And may I walk in peace and trust,
+    Knowing that I am held in divine love."
 
 #### Offering 7: Create Your Own Prayer
 

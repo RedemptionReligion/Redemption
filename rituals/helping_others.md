@@ -10,26 +10,29 @@ Helping others is central to the Redemption Religion, reflecting the highest exp
 
 The practice of helping others in the Redemption Religion is grounded in ethical principles that ensure respect, dignity, and empowerment for those receiving aid. The following values guide this sacred duty:
 
-    Empathy: Understanding the needs and feelings of others is key to providing meaningful help. Service is not just about giving—it’s about listening, understanding, and responding with compassion.
-    Respect: Helping others must always uphold their autonomy and dignity. Actions should empower, not create dependency.
-    Non-Judgment: Aid is given without judgment or assumption. Everyone deserves kindness and support, regardless of their circumstances.
-    Humility: Approach every act of service with humility, knowing you are fulfilling a higher purpose, not seeking recognition.
+Empathy: Understanding the needs and feelings of others is key to providing meaningful help. Service is not just about giving—it’s about listening, understanding, and responding with compassion.
+
+Respect: Helping others must always uphold their autonomy and dignity. Actions should empower, not create dependency.
+
+Non-Judgment: Aid is given without judgment or assumption. Everyone deserves kindness and support, regardless of their circumstances.
+
+Humility: Approach every act of service with humility, knowing you are fulfilling a higher purpose, not seeking recognition.
 
 ### 3. Rituals for Helping Others
 
 Helping others should be an everyday practice, woven into the fabric of life. Here are some ways to engage in service that align with Redemption’s spiritual values:
 
-    Daily Acts of Kindness: Whether offering a listening ear, assisting a neighbor, or providing supplies for those in need, small acts of kindness reflect God’s will on Earth. These daily moments of service are the foundation of spiritual growth.
+Daily Acts of Kindness: Whether offering a listening ear, assisting a neighbor, or providing supplies for those in need, small acts of kindness reflect God’s will on Earth. These daily moments of service are the foundation of spiritual growth.
 
-    Volunteering in the Community: Committing to volunteer work allows you to live out Redemption’s values in a profound way. Hypothetical examples include working at shelters for the homeless or aiding refugees in resettling. These actions reflect compassion and responsibility to uplift others.
+Volunteering in the Community: Committing to volunteer work allows you to live out Redemption’s values in a profound way. Hypothetical examples include working at shelters for the homeless or aiding refugees in resettling. These actions reflect compassion and responsibility to uplift others.
 
-    Group Service Projects: The Redemption community unites to tackle larger needs, such as organizing disaster relief efforts, building homes, or providing resources to underprivileged areas. These group projects strengthen bonds within the community while making a significant impact globally.
+Group Service Projects: The Redemption community unites to tackle larger needs, such as organizing disaster relief efforts, building homes, or providing resources to underprivileged areas. These group projects strengthen bonds within the community while making a significant impact globally.
 
-    Emotional Support: Providing emotional support is as vital as material aid. Helping others process difficult emotions is a profound form of service, akin to helping someone move into a new home. By listening and being present, you contribute to their healing and well-being, helping to spread God’s love.
+Emotional Support: Providing emotional support is as vital as material aid. Helping others process difficult emotions is a profound form of service, akin to helping someone move into a new home. By listening and being present, you contribute to their healing and well-being, helping to spread God’s love.
 
-    Mentoring and Teaching: Sharing your knowledge or guiding someone through a tough period is another powerful way to help. Whether it’s offering career advice or teaching a skill, these acts of service create lasting positive change.
+Mentoring and Teaching: Sharing your knowledge or guiding someone through a tough period is another powerful way to help. Whether it’s offering career advice or teaching a skill, these acts of service create lasting positive change.
 
-    Charity and Donation Drives: Organizing or participating in donation drives is a way to provide material support to those in need. Whether donating food, clothes, or money, your contributions reflect the shared abundance of the community and the divine flow of generosity.
+Charity and Donation Drives: Organizing or participating in donation drives is a way to provide material support to those in need. Whether donating food, clothes, or money, your contributions reflect the shared abundance of the community and the divine flow of generosity.
 
 ### 4. Helping Without Expectation
 
@@ -39,9 +42,9 @@ Helping others in the Redemption Religion is an act of pure service, done withou
 
 Helping others is also a profound tool for personal growth and spiritual development. Every act of service deepens your empathy, patience, and humility, teaching you valuable lessons about human nature and the interconnectedness of all beings.
 
-    Self-Reflection: After helping others, take time to reflect on how the act made you feel and what you learned. Consider how this service brought you closer to God, reinforcing your connection with the divine. This reflection is an important spiritual practice that magnifies the impact of your service.
+Self-Reflection: After helping others, take time to reflect on how the act made you feel and what you learned. Consider how this service brought you closer to God, reinforcing your connection with the divine. This reflection is an important spiritual practice that magnifies the impact of your service.
 
-    Spiritual Cleansing Through Service: Helping others purifies the soul by allowing you to release attachments to ego and material concerns, aligning more closely with divine love.
+Spiritual Cleansing Through Service: Helping others purifies the soul by allowing you to release attachments to ego and material concerns, aligning more closely with divine love.
 
 ### 6. Embracing Challenges as a Path to God
 
@@ -51,7 +54,7 @@ Challenges, especially internal battles, are what bring us closer to God. These 
 
 Helping others is not just about individual acts—it’s about uplifting the entire community and contributing to the global good. Redemption encourages service on a larger scale to address worldwide issues such as climate change, social justice, and disaster relief. Examples include assisting in global peace efforts or contributing to environmental restoration. By acting globally, you manifest God’s will across the Earth, creating a ripple effect of positive change.
 
-    Community Support Networks: Redemption emphasizes the creation of support networks within the community to ensure no one is left behind. Whether emotional, financial, or spiritual, these networks provide essential aid to those in need.
+Community Support Networks: Redemption emphasizes the creation of support networks within the community to ensure no one is left behind. Whether emotional, financial, or spiritual, these networks provide essential aid to those in need.
 
 ### 8. Annual Ritual of Collective Service
 

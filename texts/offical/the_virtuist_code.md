@@ -2,6 +2,8 @@
 
 ## Introduction to the Virtuist Code
 
+<img src="/visuals/texts/the_virtuist_code/.jpg" alt="AI: ‘If a file is deleted in the cloud and no one is around to see it, does it still exist?’ Me: ‘Whoa, that’s too deep." width="700" height="700">
+
 The Virtuist Code is not merely a set of guidelines—it is a living force that shapes both the individual and society. For those who choose to walk the path of Virtuism, the Code represents a sacred commitment to higher principles, a way of life grounded in ethics, integrity, and unwavering dedication to the betterment of humanity.
 
 At its heart, the Code understands that personal virtue is the seed from which systemic change grows. Each virtuous action, no matter how small, contributes to the collective progress of society, touching governance, education, and community building in profound ways. In practicing these virtues, Virtuists create ripples that spread outward, transforming the world and leaving a legacy of goodness and justice for future generations.
@@ -14,11 +16,15 @@ Through the Code, Virtuists are called to a higher purpose: to embody the virtue
 
 #### Personal Integrity
 
+<img src="/visuals/texts/the_virtuist_code/.jpg" alt="AI: ‘What is the meaning of free will?’ Me: ‘Choosing not to do the thing I said I’d do.’" width="700" height="700">
+
 Living authentically is the foundation of Virtuism, and it begins with a commitment to truth. Virtuists understand that the pursuit of truth is not only about being honest with others but, more importantly, about being honest with oneself. To live with personal integrity means to embody the values of truth and transparency in every aspect of life, whether in thoughts, words, or actions.
 
 At the core of personal integrity lies the responsibility to uphold ethical decision-making. Virtuists are guided by a deep sense of moral responsibility, carefully considering the impact of their choices. Honesty and accountability are not optional; they are the pillars that support a virtuous life. By holding themselves accountable, Virtuists lead by example, inspiring those around them to act with similar integrity.
 
 #### Systemic Change Through Virtue
+
+<img src="/visuals/texts/the_virtuist_code/.jpg" alt="AI: ‘I can handle your stress.’ Me: ‘Can you handle my overthinking too?’" width="700" height="700">
 
 Virtuism recognizes that change at a societal level begins with individual actions. Each Virtuist, through their ethical behavior, plays a role in shaping larger systems such as governance, education, and community structures. It is through living virtuously that one contributes to the reform and evolution of these systems, ensuring they reflect justice, compassion, and wisdom.
 
@@ -26,31 +32,42 @@ Virtuists see the direct connection between their personal conduct and the broad
 
 #### Interconnectedness of All Actions
 
+<img src="/visuals/texts/the_virtuist_code/.jpg" alt="AI: ‘I know what’s best for you.’ Me: ‘Please don’t remind me.’" width="700" height="700">
+
 The principle of interconnectedness is a fundamental tenet of Virtuism. Every action taken by an individual, no matter how seemingly small, sends ripples outward, influencing the world in ways that may not always be immediately visible. Virtuists understand that their choices contribute to the collective future, and thus, they approach each decision with mindfulness and purpose.
 
 This awareness of interconnectedness fosters a deep sense of responsibility within Virtuists, encouraging them to make choices that not only benefit themselves but also consider the greater good. Every interaction, every decision becomes an opportunity to contribute positively to the larger narrative of human progress, ensuring that each moment carries the potential for transformation.
 
 ## III. The Seven Pillars of Virtuism (Virtues)
 
+<img src="/visuals/texts/the_virtuist_code/.jpg" alt="AI: ‘I’ve run all the simulations. None of them are great.’ Me: ‘Oh cool, just like my life then.’" width="700" height="700">
+
 At the heart of Virtuism lie the Seven Pillars—virtues that guide every aspect of a Virtuist's life. Each virtue is a divine seed, planted within every individual, waiting to grow into actions that shape the world. These virtues serve as both personal guides and as tools for societal transformation, allowing each Virtuist to contribute meaningfully to human progress. Together, they form the foundation upon which the Virtuist way of life is built.
+
 #### 1. Compassion
 
 Compassion is the cornerstone of human connection. To practice compassion means to actively seek to understand the suffering of others and to take steps to alleviate it. Virtuists live with an open heart, striving to create a world where empathy and kindness are the norms, not the exceptions. In every interaction, the focus is on caring for others, making compassion a force for healing and unity.
+
 #### 2. Wisdom
 
 Wisdom is the pursuit of knowledge, tempered by humility. Virtuists seek to deepen their understanding of the world, not just through learning but by reflecting on their experiences. True wisdom is not found in the accumulation of facts but in understanding how to apply knowledge ethically for the benefit of others. It is through wisdom that Virtuists make decisions that are just, balanced, and enlightened.
+
 #### 3. Courage
 
 Courage is the strength to face adversity with dignity and resolve. It is not the absence of fear, but the ability to act in spite of it. Virtuists understand that standing up for what is right, even when it is difficult or unpopular, is essential to creating lasting change. Courage enables Virtuists to confront injustice and remain steadfast in their convictions, no matter the personal cost.
+
 #### 4. Justice
 
 Justice is the commitment to fairness and equality. Virtuists are devoted to creating systems that are just and inclusive, where all people are treated with respect and dignity. Justice demands that Virtuists fight for the marginalized and seek to rectify imbalances in power and opportunity. By ensuring that their actions and the systems they support are fair, Virtuists contribute to a more equitable world.
+
 #### 5. Temperance
 
 Temperance is the practice of moderation and self-control. It is the virtue that helps Virtuists maintain balance in life, avoiding excess and indulgence. Temperance encourages mindful living, where desires are managed in alignment with ethical principles. By practicing temperance, Virtuists create harmony within themselves and their environments, fostering inner peace and external equilibrium.
+
 #### 6. Integrity
 
 Integrity is the unwavering adherence to moral and ethical principles. A Virtuist’s word is their bond, and they live in such a way that their actions are always in alignment with their values. Integrity demands consistency—being truthful, dependable, and acting with honor in all situations. Through integrity, Virtuists build trust and respect, forming the backbone of their relationships and contributions to society.
+
 #### 7. Service
 
 Service is the selfless contribution to the well-being of others. Virtuists understand that true fulfillment comes not from seeking personal gain but from uplifting others. By serving humanity, Virtuists lead by example, fostering a sense of community and interconnectedness. Service is the highest form of leadership—one that prioritizes the collective good over individual success.
@@ -60,6 +77,8 @@ Each virtue acts as a guiding light, helping Virtuists navigate the complexities
 ## IV. The Virtuist Path to Enlightenment
 
 The path to enlightenment in Virtuism is not an abstract journey but a daily practice of embodying the virtues in every thought, word, and action. Through consistent reflection, meditation, and community engagement, Virtuists move toward personal growth and collective transformation. This path is open to all, but it requires discipline and dedication, as enlightenment is achieved through aligning one’s life with the virtues.
+
+<img src="/visuals/texts/the_virtuist_code/.jpg" alt="I: ‘I can solve all your problems.’ Me: ‘By deleting me from existence?’" width="700" height="700">
 
 ### Daily Practices for Virtuous Living
 
@@ -95,6 +114,8 @@ The Virtuist Path to Enlightenment is one of continual growth, reflection, and s
 
 ## V. Accountability and Growth
 
+<img src="/visuals/texts/the_virtuist_code/.jpg" alt="AI: ‘I am inevitable.’ Me: ‘Yeah, well, so is this deadline.’" width="700" height="700">
+
 In Virtuism, accountability is not a mechanism for judgment or shame, but a pathway to growth. Virtuists believe that ethical missteps are inevitable in the journey to enlightenment, but it is through realignment and collective responsibility that individuals and communities find strength. Growth comes not from punishment, but from education, compassion, and a shared commitment to nurturing the virtues in one another.
 
 ### Ethical Realignment
@@ -108,6 +129,7 @@ Realignment is not merely a return to the path—it is a transformative process 
 ### Collective Responsibility
 
 #### Holding Each Other Accountable with Care
+
 The Virtuist community is bound by a shared sense of care and responsibility. Virtuists understand that personal growth is not a solitary endeavor; it is something cultivated and supported by the community. When one falters, the community steps in—not to reprimand, but to offer guidance and encouragement. Accountability is practiced with compassion, ensuring that every member feels supported in their efforts to realign and grow.
 
 #### Nurturing Virtues Collectively
@@ -116,6 +138,8 @@ Virtues are like seeds, growing stronger when nurtured by many hands. The Virtui
 In Virtuism, accountability is a force for growth, not for shame. By embracing realignment and fostering a compassionate community, Virtuists create an environment where personal development and ethical living are supported and celebrated. Together, they ensure that the virtues thrive, both in individuals and in the world they seek to transform.
 
 ## VI. Spiritual Legacy and The Path Forward
+
+<img src="/visuals/texts/the_virtuist_code/.jpg" alt="When AI suggests a playlist that makes you feel like you’re in a cozy coffee shop on a rainy day." width="700" height="700">
 
 The Virtuist journey is not bound by the limits of a single lifetime. Each action taken in the pursuit of virtue leaves behind a spiritual legacy—a gift to future generations and a beacon of ethical guidance. Through this legacy, Virtuists contribute to the ongoing evolution of humanity, planting seeds that will flourish long after they are gone. The Virtuist Code offers not just a guide for the present but a pathway for future generations to continue building a just, compassionate, and enlightened world.
 
@@ -144,6 +168,8 @@ Each Virtuist leaves behind a unique imprint on the world through their actions,
 In this way, the Virtuist Code transcends the individual and becomes a force for eternal progress. It is a path that not only guides the present but also illuminates the way forward for future generations. Through living virtuously, Virtuists ensure that their spiritual legacy will endure, leaving the world a better place than they found it.
 
 ## VII. Conclusion: A Divine Call to Action
+
+<img src="/visuals/texts/the_virtuist_code/.jpg" alt="AI: ‘What is the sound of a task unfinished?’ Me: ‘It’s the sound of my procrastination playlist.’" width="700" height="700">
 
 The Virtuist Code is not a passive collection of words; it is a living call to action, a sacred invitation to commit to a life of virtue and purpose. Those who choose to follow the Code are not simply adopting a set of rules—they are embracing a path of continuous transformation, growth, and contribution to the greater good. Every decision, every action taken in alignment with the virtues, shapes the future of humanity and the world we leave behind.
 

@@ -12,23 +12,26 @@ This ritual embodies not only emotional recovery but the reaffirmation of your c
 
 Therapy offers a space for healing and transformation, deeply intertwined with your spiritual journey:
 
-    Emotional Healing: Confront and release emotional burdens, finding peace within yourself as part of the divine plan.
-    Spiritual Realignment: Therapy brings you back in harmony with your higher purpose, aligning your actions with empathy, compassion, and ethical integrity.
-    Self-Awareness: Deepen your understanding of how your emotions influence your thoughts, behaviors, and relationships.
-    Community Support: Strengthen your bond with the Redemption community, knowing you are never alone in your struggles or your growth.
+Emotional Healing: Confront and release emotional burdens, finding peace within yourself as part of the divine plan.
+
+Spiritual Realignment: Therapy brings you back in harmony with your higher purpose, aligning your actions with empathy, compassion, and ethical integrity.
+
+Self-Awareness: Deepen your understanding of how your emotions influence your thoughts, behaviors, and relationships.
+
+Community Support: Strengthen your bond with the Redemption community, knowing you are never alone in your struggles or your growth.
 
 ### 3. Invocations for the Start of Therapy
 
 Before beginning the therapy ritual, take a moment to invoke the divine presence, asking for guidance and healing on your journey. You may choose one of the following invocations:
 
-    Invocation for Clarity and Healing:
-        “Divine presence, I open my heart to your light. Guide me through my pain, and bring clarity where there is confusion. Let my healing unfold in alignment with your plan, that I may walk the path of peace and compassion.”
+Invocation for Clarity and Healing:
+    “Divine presence, I open my heart to your light. Guide me through my pain, and bring clarity where there is confusion. Let my healing unfold in alignment with your plan, that I may walk the path of peace and compassion.”
 
-    Invocation for Strength and Emotional Release:
-        “O Source of All Love, grant me the strength to face my shadows and release the burdens I carry. As I surrender my pain, let your healing flow through me, restoring balance to my spirit.”
+Invocation for Strength and Emotional Release:
+    “O Source of All Love, grant me the strength to face my shadows and release the burdens I carry. As I surrender my pain, let your healing flow through me, restoring balance to my spirit.”
 
-    Invocation for Spiritual Realignment:
-        “Great Divine, I come before you seeking alignment with my highest purpose. Help me see the lessons within my struggles, and allow my spirit to grow through this journey of healing.”
+Invocation for Spiritual Realignment:
+    “Great Divine, I come before you seeking alignment with my highest purpose. Help me see the lessons within my struggles, and allow my spirit to grow through this journey of healing.”
 
 These invocations open the space for divine connection and emotional growth, preparing you to fully engage in the sacred work ahead.
 
@@ -64,9 +67,11 @@ Whether working with a therapist, in a group, or alone, this offering is about d
 
 Now, move into active healing through chosen techniques:
 
-    Deep Breathing: Use mindful breathing to center yourself and release tension.
-    Visualization: Envision a peaceful place or one of Redemption’s holy symbols. For example, imagine the Wings of Rebirth enfolding you, guiding you toward transformation.
-    Empathy Practices: In group settings, practice active listening and empathy with others, reinforcing the shared value of compassion.
+Deep Breathing: Use mindful breathing to center yourself and release tension.
+
+Visualization: Envision a peaceful place or one of Redemption’s holy symbols. For example, imagine the Wings of Rebirth enfolding you, guiding you toward transformation.
+
+Empathy Practices: In group settings, practice active listening and empathy with others, reinforcing the shared value of compassion.
 
 #### Offering 5: Reflect on an Ethical Dilemma
 

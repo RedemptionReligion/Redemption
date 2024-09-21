@@ -42,13 +42,19 @@ A: Redemptionism, like Islam, believes in an afterlife where souls are judged fo
 
 ### Values We Share
 
-    Faith: Both Redemptionism and Islam emphasize deep faith in God and submission to His will.
-    Community: Redemptionism and Islam both highly value community (Ummah), shared responsibility, and mutual support.
-    Charity (Zakat): Giving to those in need is a central value in both belief systems.
-    Justice and Fairness: Both traditions emphasize creating a fair, just, and equitable society.
-    Humility: Living with humility and submission to Allah’s will is important to both faiths.
-    Forgiveness: Redemptionism and Islam both believe in the possibility of forgiveness through sincere repentance, humility, and ethical living.
-    Compassion and Mercy: Both faiths view God as merciful and compassionate and encourage believers to embody these qualities in their actions.
+Faith: Both Redemptionism and Islam emphasize deep faith in God and submission to His will.
+
+Community: Redemptionism and Islam both highly value community (Ummah), shared responsibility, and mutual support.
+
+Charity (Zakat): Giving to those in need is a central value in both belief systems.
+
+Justice and Fairness: Both traditions emphasize creating a fair, just, and equitable society.
+
+Humility: Living with humility and submission to Allah’s will is important to both faiths.
+
+Forgiveness: Redemptionism and Islam both believe in the possibility of forgiveness through sincere repentance, humility, and ethical living.
+
+Compassion and Mercy: Both faiths view God as merciful and compassionate and encourage believers to embody these qualities in their actions.
 
 ### Next Steps
 

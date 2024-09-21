@@ -10,15 +10,15 @@ Ethical interactions lie at the heart of Redemptionism, a way of living that foc
 
 Redemptionism encourages the following principles to guide all interactions:
 
-    Empathy: Strive to understand others' feelings, perspectives, and experiences. Ethical living begins with a compassionate awareness of those around us.
+Empathy: Strive to understand others' feelings, perspectives, and experiences. Ethical living begins with a compassionate awareness of those around us.
 
-    Integrity: Be honest and transparent in every action. Align your words and behavior with ethical standards, even when facing challenges.
+Integrity: Be honest and transparent in every action. Align your words and behavior with ethical standards, even when facing challenges.
 
-    Respect: Treat others with dignity, honoring their individuality, autonomy, and unique backgrounds. This includes listening to different perspectives and being open to learning from them.
+Respect: Treat others with dignity, honoring their individuality, autonomy, and unique backgrounds. This includes listening to different perspectives and being open to learning from them.
 
-    Non-Harm: Avoid causing harm, whether it is intentional or unintentional. Intentional harm is deliberate, but unintentional harm may occur even with good intentions. Both forms require acknowledgment and reparation, as they can affect others deeply. In all situations, prioritize peaceful and ethical solutions that seek healing over harm.
+Non-Harm: Avoid causing harm, whether it is intentional or unintentional. Intentional harm is deliberate, but unintentional harm may occur even with good intentions. Both forms require acknowledgment and reparation, as they can affect others deeply. In all situations, prioritize peaceful and ethical solutions that seek healing over harm.
 
-    Overly Virtuous Conduct: When uncertain, aim to exceed basic ethical standards. Tailor your language and behavior to be respectful in all contexts. If you're unsure whether an action or language is appropriate, choose the option that maintains the most respect for those involved.
+Overly Virtuous Conduct: When uncertain, aim to exceed basic ethical standards. Tailor your language and behavior to be respectful in all contexts. If you're unsure whether an action or language is appropriate, choose the option that maintains the most respect for those involved.
 
 ### 3. Practicing Ethical Interactions in Everyday Life
 
@@ -55,9 +55,9 @@ Once the emotions have been processed, reiterate what occurred and why it was ha
 
 Realignment takes time and depends on the severity of the breach:
 
-    Smaller breaches: These may only require periodic short check-ins to ensure the individual is reflecting and learning from their actions.
-    Medium breaches: These may involve bi-weekly check-ins for a designated period, offering more structured support and guidance.
-    Large breaches: These require greater accountability, often involving multiple accountability partners. Weekly check-ins may be necessary to ensure progress, with a "village" of support to help the individual realign without judgment.
+Smaller breaches: These may only require periodic short check-ins to ensure the individual is reflecting and learning from their actions.
+Medium breaches: These may involve bi-weekly check-ins for a designated period, offering more structured support and guidance.
+Large breaches: These require greater accountability, often involving multiple accountability partners. Weekly check-ins may be necessary to ensure progress, with a "village" of support to help the individual realign without judgment.
 
 ### 5. Inclusivity and Bias
 
@@ -71,9 +71,9 @@ Ethical actions may unintentionally cause harm. When this occurs, it is importan
 
 In Redemptionism, ethical interactions are practiced in every community gathering. Whether during discussions, meals, or service projects, members are expected to embody ethical values:
 
-    Inclusivity: Ensure that everyone feels welcome, regardless of background or experience. This includes making activities accessible and fostering an environment where everyone’s voice is heard.
+Inclusivity: Ensure that everyone feels welcome, regardless of background or experience. This includes making activities accessible and fostering an environment where everyone’s voice is heard.
 
-    Supportive Engagement: Offer emotional and practical support to others. Helping one another through empathy, advice, or active participation builds stronger, more united communities.
+Supportive Engagement: Offer emotional and practical support to others. Helping one another through empathy, advice, or active participation builds stronger, more united communities.
 
 ### 8. Rituals to Reinforce Ethical Practice
 

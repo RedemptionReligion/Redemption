@@ -90,19 +90,23 @@ Each virtue comes with unique challenges, and practicing them in different situa
 
 Every Virtuist’s path is unique, and practicing virtues should be personalized to reflect your own spiritual journey. You may find that certain virtues resonate with you more at different points in your life, or that some virtues require more focus than others. Feel free to adjust the way you practice virtues to fit your needs and experiences. Whether you practice one virtue intensively for a week or rotate through different virtues each day, the goal is to stay aligned with the principles of Redemption in a way that feels meaningful to you.
 
-Creative Examples:
+#### Creative Examples:
 
-    A Virtuist practicing Gratitude might start a daily journal where they write three things they are grateful for, incorporating reflection into their nightly routine.
-    A Virtuist focusing on Self-Discipline might set timers for productivity breaks to avoid overindulgence in distractions.
-    Hope could be practiced by setting small, achievable goals each day to reinforce a positive outlook on future possibilities.
+A Virtuist practicing Gratitude might start a daily journal where they write three things they are grateful for, incorporating reflection into their nightly routine.
+
+A Virtuist focusing on Self-Discipline might set timers for productivity breaks to avoid overindulgence in distractions.
+
+Hope could be practiced by setting small, achievable goals each day to reinforce a positive outlook on future possibilities.
 
 ### 7. Virtue Circles: Learning Together
 
 Virtue Circles provide an opportunity for Virtuists to come together and reflect on their practice of virtues. These gatherings foster a sense of mutual learning and encouragement, allowing members to share both their successes and challenges in practicing virtues.
 
-    Learning from Each Other: Virtue Circles are a space where Virtuists can share how they’ve applied certain virtues in their lives. By sharing experiences, Virtuists can learn new approaches to practicing virtues from one another.
-    Displaying Courage Through Reflection: Discussing personal failings or challenges in practicing a virtue requires courage. In these gatherings, Virtuists can openly reflect on moments where they struggled to live up to their intentions, using the support of the community to improve. For example, someone may share an instance where they struggled with Temperance and ask others if they’ve encountered similar challenges.
-    Facilitated by Virtuneus: Virtuneus, as facilitators, guide the exchange of stories and reflections. After someone tells a story, the group offers words of encouragement and discusses potential actions the individual could have taken. Virtuists should come prepared with stories or situations where they applied virtues, ready to learn from their experiences and the insights of others.
+Learning from Each Other: Virtue Circles are a space where Virtuists can share how they’ve applied certain virtues in their lives. By sharing experiences, Virtuists can learn new approaches to practicing virtues from one another.
+
+Displaying Courage Through Reflection: Discussing personal failings or challenges in practicing a virtue requires courage. In these gatherings, Virtuists can openly reflect on moments where they struggled to live up to their intentions, using the support of the community to improve. For example, someone may share an instance where they struggled with Temperance and ask others if they’ve encountered similar challenges.
+
+Facilitated by Virtuneus: Virtuneus, as facilitators, guide the exchange of stories and reflections. After someone tells a story, the group offers words of encouragement and discusses potential actions the individual could have taken. Virtuists should come prepared with stories or situations where they applied virtues, ready to learn from their experiences and the insights of others.
 
 The frequency of Virtue Circles will be up to the community, allowing flexibility in how often these gatherings occur.
 

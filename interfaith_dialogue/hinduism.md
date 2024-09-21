@@ -36,12 +36,17 @@ A: Redemptionism remains open to different interpretations of the divine. We bel
 
 ### Values We Share
 
-    Karma: Both Redemptionism and Hinduism believe that actions have consequences and that ethical behavior is essential to spiritual growth.
-    Dharma: The shared commitment to living righteously, fulfilling duties, and acting in harmony with universal laws.
-    Virtue: Both belief systems emphasize the cultivation of virtues like compassion, truthfulness, and humility.
-    Nonviolence (Ahimsa): Both faiths teach that nonviolence and compassion for all living beings are central to ethical living.
-    Respect for Diversity: Hinduism’s respect for multiple spiritual paths aligns with Redemptionism’s belief that individuals can pursue virtue in different ways.
-    Spiritual Growth: Both traditions emphasize ongoing spiritual growth and self-improvement.
+Karma: Both Redemptionism and Hinduism believe that actions have consequences and that ethical behavior is essential to spiritual growth.
+
+Dharma: The shared commitment to living righteously, fulfilling duties, and acting in harmony with universal laws.
+
+Virtue: Both belief systems emphasize the cultivation of virtues like compassion, truthfulness, and humility.
+
+Nonviolence (Ahimsa): Both faiths teach that nonviolence and compassion for all living beings are central to ethical living.
+
+Respect for Diversity: Hinduism’s respect for multiple spiritual paths aligns with Redemptionism’s belief that individuals can pursue virtue in different ways.
+
+Spiritual Growth: Both traditions emphasize ongoing spiritual growth and self-improvement.
 
 ### Next Steps
 

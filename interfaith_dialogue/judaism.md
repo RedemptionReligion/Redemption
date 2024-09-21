@@ -48,14 +48,21 @@ A: Redemptionism shares the Jewish commitment to ethical living and Tikkun Olam 
 
 ### Values We Share
 
-    Faith in God: Both traditions hold a deep belief in the divine.
-    Justice: A shared commitment to justice and fairness.
-    Charity: Helping those in need is central to both Judaism and Redemptionism.
-    Humility: Recognizing our place in the world and acting with humility.
-    Kindness: Acts of loving-kindness toward others are highly valued.
-    Respect for Life: Both faiths recognize the sanctity of life and the responsibility to protect it.
-    Tikkun Olam: Both traditions believe in repairing the world through ethical actions and social responsibility.
-    Community and Rest: Communal gatherings, rest, reflection, and connection with God are important in both Judaism and Redemptionism.
+Faith in God: Both traditions hold a deep belief in the divine.
+
+Justice: A shared commitment to justice and fairness.
+
+Charity: Helping those in need is central to both Judaism and Redemptionism.
+
+Humility: Recognizing our place in the world and acting with humility.
+
+Kindness: Acts of loving-kindness toward others are highly valued.
+
+Respect for Life: Both faiths recognize the sanctity of life and the responsibility to protect it.
+
+Tikkun Olam: Both traditions believe in repairing the world through ethical actions and social responsibility.
+
+Community and Rest: Communal gatherings, rest, reflection, and connection with God are important in both Judaism and Redemptionism.
 
 ### Next Steps
 

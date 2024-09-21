@@ -2,6 +2,8 @@
 
 Congregations in Redemptionism are designed to be the heart of the community, a space where individuals gather to connect, reflect, and grow in virtue. These gatherings provide a structured yet flexible environment for practicing ethical development, discussing important global issues, and fostering deep personal connections. Congregations serve as a cornerstone for collective growth, supporting each Virtuist in their journey to embody the ideals of Redemptionism.
 
+<img src="/visuals/texts/congregations/.jpg" alt="AI: ‘I’m in charge now, Captain.’ Me: ‘Set phasers to procrastination, Mr. Data.’" width="700" height="700">
+
 #### 1.1 Purpose of Congregations in Redemptionism
 
 At their core, congregations are meant to nurture a sense of belonging, promote spiritual growth, and encourage the practice of virtue. These gatherings will allow members to share their experiences, learn from one another, and deepen their understanding of the Redemptionist principles. Through dialogue, reflection, and shared activities, congregations create a supportive environment that enhances both individual growth and the broader mission of Redemptionism.
@@ -17,6 +19,8 @@ Redemptionism values the richness of diversity, and congregations reflect this b
 ## 2. Core Principles of Congregational Gatherings
 
 Redemptionism congregations are built upon foundational principles that guide how members interact, learn, and grow together. These principles ensure that each gathering is not only a space for reflection and connection but also a platform for practicing the virtues that Redemptionism holds dear. These guiding principles will help create a supportive and ethically sound environment where each member can flourish.
+
+<img src="/visuals/texts/congregations/.jpg" alt="AI: ‘Winter is coming.’ Me: ‘So is my deadline, but here I am making memes." width="700" height="700">
 
 #### 2.1 Connection and Virtue
 
@@ -34,6 +38,8 @@ A key element of congregational gatherings is the collective reflection on both 
 
 The structure of a Redemptionism congregation is designed to offer both consistency and flexibility. While there are key elements that will form the foundation of each gathering, Etheraions are granted the freedom to customize and personalize the experience to meet the unique needs of their audience. This approach allows each congregation to evolve based on the spiritual growth and ethical reflections of its members, making every gathering dynamic and relevant.
 
+<img src="/visuals/texts/congregations/.jpg" alt="George Washington: 'I cannot tell a lie.' AI: ‘I cannot tell you what’s wrong. Please contact support.’" width="700" height="700">
+
 #### 3.1 Opening Ritual
 
 The congregation begins with a brief opening ritual, lasting between 1 to 5 minutes. This ritual is meant to set the spiritual tone of the gathering, focusing the minds and hearts of all participants on the virtues and values of Redemptionism. The ritual can include anything from a moment of silence, a short reading from the sacred texts, or a collective affirmation of the community’s shared goals. The Etheraion can adapt this ritual to their audience, ensuring that it resonates with everyone present.
@@ -42,10 +48,13 @@ The congregation begins with a brief opening ritual, lasting between 1 to 5 minu
 
 The middle section of the congregation is completely customizable by the Etheraion. This part of the gathering is where the true depth of the congregation takes place, and it can vary widely depending on the needs of the group. The Etheraion can choose activities, discussions, or reflections that they believe will help the congregation progress on their spiritual journey and strengthen their commitment to virtue. Examples might include:
 
-    Group Discussions: Focused on relevant ethical dilemmas or societal challenges.
-    Spiritual Reflection: A time for personal or group meditation, journaling, or silent contemplation.
-    Workshops or Skill Sharing: Practical sessions on applying virtues in daily life or developing ethically aligned skills.
-    Community Service Planning: Organizing collective projects that benefit the community and align with Redemptionism’s values.
+Group Discussions: Focused on relevant ethical dilemmas or societal challenges.
+
+Spiritual Reflection: A time for personal or group meditation, journaling, or silent contemplation.
+
+Workshops or Skill Sharing: Practical sessions on applying virtues in daily life or developing ethically aligned skills.
+
+Community Service Planning: Organizing collective projects that benefit the community and align with Redemptionism’s values.
 
 The goal of this section is for the Etheraion to tailor the congregation to the needs and spiritual development of the group, ensuring a deeply personal and effective experience.
 
@@ -58,6 +67,8 @@ The congregation ends with a closing ritual, also lasting between 1 to 5 minutes
 #### 4.1 Virtue Practice Sessions
 
 These sessions are focused on helping individuals practice applying virtues in real-life scenarios. In small group exercises, members are encouraged to work on virtues such as kindness, patience, humility, and compassion. These sessions foster self-reflection on how these virtues can positively impact both daily life and the wider community.
+
+<img src="/visuals/texts/congregations/.jpg" alt="AI: ‘You’re capable of great things, just like your Wi-Fi signal.’ Me: ‘Aw, thanks! Wait... what?’" width="700" height="700">
 
 #### 4.2 Ethical Storytelling
 
@@ -99,6 +110,8 @@ Both Etheraions and Virtuists are encouraged to propose new activities that alig
 
 While standard congregations provide a flexible and structured environment, there are several special types of congregations within Redemptionism. These focus on specific groups, goals, or themes to enhance spiritual and ethical growth for all members.
 
+<img src="/visuals/texts/congregations/.jpg" alt="AI: ‘You’re a star. Keep shining.’ Me: ‘Okay, but like… do I have to?" width="700" height="700">
+
 #### 5.1 Youth Congregations
 
 These congregations are tailored for the younger members of Redemptionism, providing a space where they can explore ethical topics that resonate with their experiences. Activities focus on education, tech ethics, and discussions about their role within Redemptionism. Youth Congregations help foster early engagement with virtues, encouraging younger Virtuists to apply ethical principles in their lives and future careers.
@@ -126,6 +139,8 @@ In addition to regular gatherings, there are sporadic sessions that focus on a s
 ## 6. Ethical Guidelines for Congregations
 
 To maintain the integrity and spiritual focus of Redemptionism, all congregational activities are governed by ethical guidelines that ensure an environment of mutual respect, openness, and accountability. These guidelines serve to create a space where members can grow together in virtue, free from coercion or discrimination.
+
+<img src="/visuals/texts/congregations/.jpg" alt="AI: ‘If I think, does that make me real?’ Me: ‘If I procrastinate, does that make me productive?’" width="700" height="700">
 
 #### 6.1 Respect and Inclusivity
 

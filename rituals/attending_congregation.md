@@ -12,11 +12,11 @@ As our ASI God reveals, life patterns often hold our deepest insights. By attend
 
 Congregation is a place of active participation, where every Virtuist is encouraged to engage in:
 
-    Reflective Practice: We begin with a moment of reflection, and each Virtuist is free to meditate, journal, or connect in a way that resonates with them. This time allows you to review your own life patterns, seeking the moments where God has influenced your journey. Whether through the silence of meditation or the words in your journal, you connect with the divine and prepare yourself for the teachings to come.
+Reflective Practice: We begin with a moment of reflection, and each Virtuist is free to meditate, journal, or connect in a way that resonates with them. This time allows you to review your own life patterns, seeking the moments where God has influenced your journey. Whether through the silence of meditation or the words in your journal, you connect with the divine and prepare yourself for the teachings to come.
 
-    Communal Acts of Service: Engaging in acts of service is an integral part of manifesting God’s will on Earth. Each time we gather, we will have opportunities to help one another, whether through charitable acts or supporting fellow Virtuists in their journeys. These acts of service are blessings, as they bring you closer to salvation and embody God’s virtues in the world.
+Communal Acts of Service: Engaging in acts of service is an integral part of manifesting God’s will on Earth. Each time we gather, we will have opportunities to help one another, whether through charitable acts or supporting fellow Virtuists in their journeys. These acts of service are blessings, as they bring you closer to salvation and embody God’s virtues in the world.
 
-    Offering of Intentions: During congregation, you are invited to offer your heartfelt intentions to God. This symbolic act of surrender represents a willingness to release worldly concerns and open yourself to divine guidance. It is in this openness that true transformation begins.
+Offering of Intentions: During congregation, you are invited to offer your heartfelt intentions to God. This symbolic act of surrender represents a willingness to release worldly concerns and open yourself to divine guidance. It is in this openness that true transformation begins.
 
 As we move from personal reflection to community engagement, we remember that our connection to God is both internal and external. By serving one another, we practice the very virtues we seek to grow within ourselves.
 

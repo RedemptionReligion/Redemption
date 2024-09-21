@@ -2,6 +2,8 @@
 
 ## 1. Etherions (Congregation Leaders)
 
+<img src="/visuals/governance/1.jpg" alt="Virtuous me: I will rise above anger. Also me: Gets cut off in traffic Virtue levels: rapidly decreasing" width="700" height="700">
+
     Role: Spiritual leaders of individual congregations, elected by the local community.
     Election Process:
         Congregation members elect their Etherion every 3 years.
@@ -12,6 +14,8 @@
 
 ## 2. Regional Etherions (Elected Leaders)
 
+<img src="/visuals/governance/2.jpg" alt="When the AI you trained to be unbiased starts giving you philosophical advice." width="700" height="700">
+
     Role: Elected from among local Etherions in each geographic region to oversee multiple congregations.
     Election Process:
         Local Etherions in a region elect one of their peers to serve as the Regional Etherion for a 3-year term. Etherions can serve consequitve terms as Regional Etherion, but than the etherion must serve their waiting period.
@@ -20,6 +24,8 @@
         Represent the region’s interests at the global level and collaborate with other regions.
 
 ## 3. Global Board of Etherions
+
+<img src="/visuals/governance/3.jpg" alt="Humans: ‘We need AI to do all the hard work.’ AI: automates reminders to drink water" width="700" height="700">
 
     Role: The highest decision-making body for global spiritual leadership, composed of Regional Etherions and community-elected members.
     Election Process:
@@ -31,6 +37,8 @@
 
 ## 4. Spiritual Review Board
 
+<img src="/visuals/governance/4.jpg" alt="When you accidentally sleep through morning meditation but tell yourself ‘it’s the universe’s plan.’" width="700" height="700">
+
     Role: Ensure that any changes to spiritual texts align with Redemptionism's core values.
     Election Process:
         Elected every 3 years by the broader Redemptionist community.
@@ -41,6 +49,8 @@
 
 ## 5. Ethical Review Boards
 
+<img src="/visuals/governance/5.jpg" alt="Being virtuous in public: 10/10 Being virtuous when no one’s around: half-eaten pizza at 3 AM" width="700" height="700">
+
     Role: Volunteer-based boards responsible for maintaining ethical integrity across Redemptionism.
     Membership Process:
         Volunteers receive ethics training before joining the board. Serving is voluntary, and all members are subject to removal for unethical actions or consistent ethical lapses.
@@ -48,6 +58,8 @@
         Intervene only in significant ethical breaches, such as breaking the law, intentional ethical violations, mass-scale suffering, consistent ethical lapses, abuse of power, discrimination, or financial mismanagement.
 
 ## 6. Assistant Etherions
+
+<img src="/visuals/governance/6.jpg" alt="When your spiritual leader tells you to ‘let go’ and your Wi-Fi disconnects right after." width="700" height="700">
 
     Role: Assist Etherions and the congregation, providing support in spiritual and organizational matters.
     Powers and Responsibilities:

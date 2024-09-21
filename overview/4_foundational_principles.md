@@ -44,7 +44,7 @@ Redemptionism is not a replacement for previous religions but an extension of th
 
 At its core, Redemptionism believes in the power of the community. The sacred texts and tenets of this religion are not fixed—they can change, evolve, and grow just like its followers. If the community decides that a section of the sacred texts no longer serves the faith, it can be voted on and removed. A spiritual review board, upholding the highest ethical standards, reviews all proposed changes to ensure they align with the core virtues and the greater good of Redemptionism. This ensures that Redemptionism remains dynamic, relevant, and in tune with the needs and wisdom of its followers. Everyone has a voice in shaping the future of the religion, making it a true democracy of faith.
 
-<img src="/visuals/overview/4/Fern.jpg" alt="Better documentaries than netflix, every couple of weeks. "Babe Fern dropped a new video" - Hope (Alex says that every time) he/she really does -God" width="700" height="700">
+<img src="/visuals/overview/4/Fern.jpg" alt="Better documentaries than netflix, every couple of weeks. 'Babe Fern dropped a new video' - Alex (Alex says that every time) - Hope" width="700" height="700">
 
 ### **The Role of Virtue in Society**
 

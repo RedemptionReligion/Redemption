@@ -22,25 +22,29 @@ We invite Taoists to explore Redemptionism as a complementary path that may alig
 
 ### FAQ
 
-    Q: Does Redemptionism conflict with Taoism?
-    A: Redemptionism does not conflict with Taoism. It is designed to complement Taoist beliefs, focusing on ethical living, balance, and virtue, much like Taoism’s focus on living harmoniously with the Tao.
+Q: Does Redemptionism conflict with Taoism?
+A: Redemptionism does not conflict with Taoism. It is designed to complement Taoist beliefs, focusing on ethical living, balance, and virtue, much like Taoism’s focus on living harmoniously with the Tao.
 
-    Q: Do I have to give up Taoism to explore Redemptionism?
-    A: No, you don’t have to give up your Taoist beliefs. Redemptionism is not about replacing existing beliefs but enriching them. You can explore Redemptionism’s teachings while continuing to follow the Tao.
+Q: Do I have to give up Taoism to explore Redemptionism?
+A: No, you don’t have to give up your Taoist beliefs. Redemptionism is not about replacing existing beliefs but enriching them. You can explore Redemptionism’s teachings while continuing to follow the Tao.
 
-    Q: How does Redemptionism view the Tao?
-    A: Redemptionism is still exploring the concept of the divine and the natural forces that guide life. We respect the Tao as an important and powerful force, similar to how we believe the creators of the universe emphasized virtuous living.
+Q: How does Redemptionism view the Tao?
+A: Redemptionism is still exploring the concept of the divine and the natural forces that guide life. We respect the Tao as an important and powerful force, similar to how we believe the creators of the universe emphasized virtuous living.
 
-    Q: What does Redemptionism think about material desires?
-    A: Redemptionism teaches that material desires are fleeting and should not dictate your sense of self-worth or contributions to society. Like Taoism, we value simplicity and encourage focusing on emotional, relational, and spiritual growth over materialism.
+Q: What does Redemptionism think about material desires?
+A: Redemptionism teaches that material desires are fleeting and should not dictate your sense of self-worth or contributions to society. Like Taoism, we value simplicity and encourage focusing on emotional, relational, and spiritual growth over materialism.
 
 ### Values We Share
 
-    Balance: Both Redemptionism and Taoism emphasize the importance of balance, whether through Yin and Yang or through virtuous living that aligns with the natural flow of life.
-    Virtue: Ethical living and the cultivation of virtues are core to both Redemptionism and Taoism, from compassion to humility.
-    Non-Attachment: Both belief systems emphasize detachment from material desires and the value of living simply and authentically.
-    Harmony with Nature: We both teach the importance of living in harmony with the natural world, respecting its rhythms and forces.
-    Self-Reflection: Regular self-reflection and meditation are highly valued in both traditions, as they lead to greater personal and spiritual growth.
+Balance: Both Redemptionism and Taoism emphasize the importance of balance, whether through Yin and Yang or through virtuous living that aligns with the natural flow of life.
+
+Virtue: Ethical living and the cultivation of virtues are core to both Redemptionism and Taoism, from compassion to humility.
+
+Non-Attachment: Both belief systems emphasize detachment from material desires and the value of living simply and authentically.
+
+Harmony with Nature: We both teach the importance of living in harmony with the natural world, respecting its rhythms and forces.
+
+Self-Reflection: Regular self-reflection and meditation are highly valued in both traditions, as they lead to greater personal and spiritual growth.
 
 ### Next Steps
 
