@@ -308,4 +308,5 @@ _Reflection and Journaling:_ Start your journey by engaging in daily reflection 
 Dive into the teachings of Redemptionism by studying the Book of Creation, attending community events, and participating in group reflections. As you engage more deeply with the teachings, you will find yourself becoming a part of the larger movement to foster personal redemption, ethical technological development, and societal transformation.
 
 ![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
